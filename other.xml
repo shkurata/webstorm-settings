@@ -1,0 +1,91 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe">
+      <version-cache version="8.11.4" last-modified="1534336670000" />
+    </local-interpreter>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.727758" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.80497926" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Default.SavedEditorTheme" value="_@user_Default" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="InstalledPluginsSearchHistory" value="setting&#10;code&#10;t&#10;theme&#10;tslint" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_HORIZONTAL" value="17" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_VERTICAL" value="2039" />
+    <property name="JSHintOptionsTreeView.TREE_SELECTED_NODE_ID" value="72" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="LayoutCode.rearrangeEntriesAngular HTML Template" value="false" />
+    <property name="LayoutCode.rearrangeEntriesCSS" value="false" />
+    <property name="LayoutCode.rearrangeEntriesECMAScript 6" value="false" />
+    <property name="LayoutCode.rearrangeEntriesTypeScript" value="false" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SettingsSearchHistory" value="reposi&#10;prefere&#10;sty&#10;heap&#10;directory" />
+    <property name="TrendingPluginsSearchHistory" value="theme&#10;prettier&#10;material&#10;materia" />
+    <property name="Vcs.Push.Splitter.Proportion" value="0.6921212" />
+    <property name="WebStorm.enableDefaultTooltipFixes" value="true" />
+    <property name="WebStorm.enableSmartQuotes" value="true" />
+    <property name="WebStorm.initialConfigurationShown" value="true" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="151" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="com.intellij.history.integration.ui.views.SelectionHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.SelectionHistoryDialog.1" value="800" />
+    <property name="evlsprt3.183" value="18" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/projects/cm-agenda-fe&#10;C:/Users/7508145/projects/cm-sk-homepage-fe&#10;C:/Users/7508145/projects/cm-loginbutton-fe&#10;C:/Users/7508145/projects&#10;C:/Users/7508145/projects/cm-pas-fe&#10;C:/Users/7508145/projects/cm-terugbetalingen-fe&#10;C:/Users/7508145/projects/cm-my-cm-fe&#10;C:/Users/7508145/projects/cm-shared&#10;C:/Users/7508145/projects/cm-upgradeaccount-fe&#10;C:/Users/7508145/projects/cm-jobsite-fe&#10;C:/Users/7508145/projects/cm-profile-fe&#10;C:/Users/7508145/projects/cm-terugbetalingen-pwa&#10;C:/Users/7508145/projects/cm-sk-migration-fe/node_modules/tslint/bin/tslint&#10;C:/Users/7508145/projects/cm-sk-promotions-fe&#10;C:/Users/7508145/projects/cm-sk-notes-fe&#10;C:/Users/7508145/projects/cm-auth-fe&#10;C:/Users/7508145/projects/cm-new-design&#10;C:/Users/7508145/projects/cm-sk-familyprofiel-fe&#10;C:/Users/7508145/projects/cm-backend-be&#10;C:/Users/7508145/projects/cm-sk-migration-fe&#10;C:/Users/7508145/Desktop" />
+    <property name="file.gist.reindex.count" value="286337" />
+    <property name="fileTypeChangedCounter" value="24" />
+    <property name="find.popup.splitter" value="0.369287" />
+    <property name="ideavim.statistics.timestamp" value="1548058944576" />
+    <property name="mt.showStatisticsAgreement" value="true" />
+    <property name="param.hints.settings.last.edited.language" value="JavaScript" />
+    <property name="selected.color.option.type" value="rainbow" />
+    <property name="settings.code.style.selected.tab.EditorConfig" value="Spaces" />
+    <property name="settings.code.style.selected.tab.JavaScript" value="Tabs and Indents" />
+    <property name="settings.code.style.selected.tab.TypeScript" value="Spaces" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+    <property name="vcs.history.diff.splitter.proportion" value="0.5068826" />
+    <property name="vcs.log.changes.splitter.proportion" value="0.7307221" />
+    <property name="vcs.log.details.splitter.proportion" value="0.81112987" />
+  </component>
+  <component name="RecentTaskRepositories">
+    <Trello shared="false">
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <option name="currentBoard">
+        <TrelloBoard id="5c07a80aecf3451a50fa6a94" name="My board" />
+      </option>
+      <option name="currentList">
+        <TrelloList id="5c07a9d5a5d3d839a24ff9a3" name="Doing" />
+      </option>
+      <option name="currentUser">
+        <TrelloUser id="5c062956a9a4675b17cc21d1" name="nikolayneykov1" />
+      </option>
+      <option name="includeAllCards" value="false" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="url" value="https://api.trello.com" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username />
+    </Trello>
+    <JIRA shared="false" url="https://jira.cm.be">
+      <option name="apiType" value="REST_2_0" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <option name="inCloud" value="false" />
+      <option name="jiraVersion" value="7.1.0" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="searchQuery" value="assignee = currentUser() and resolution = Unresolved order by updated" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="true" />
+      <option name="useProxy" value="false" />
+      <username>nikolay</username>
+    </JIRA>
+  </component>
+</application>

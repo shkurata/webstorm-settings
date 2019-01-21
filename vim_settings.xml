@@ -1,0 +1,1123 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/projects/cm-sk-migration-fe/src/app/children/sk-profile.ts" timestamp="1543311238201">
+        <mark key="[" line="16" column="25" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-homepage-fe/app/index.html" timestamp="1547639210886">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-backend-be/modules/skoebidoe/server/utils/sk.family.profile.server.util.js" timestamp="1544181717011">
+        <mark key="[" line="49" column="33" />
+        <mark key="]" line="51" column="32" />
+        <mark key="^" line="51" column="32" />
+        <mark key="." line="51" column="32" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-migration-fe/src/app/sk-auth/password-forgotten/password-forgotten.component.spec.ts" timestamp="1543930994231">
+        <mark key="[" line="15" column="19" />
+        <mark key="]" line="16" column="26" />
+        <mark key="^" line="16" column="26" />
+        <mark key="." line="16" column="26" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-profile-fe/app/index-cm.html" timestamp="1547628673545">
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="121" column="58" />
+        <mark key="^" line="88" column="55" />
+        <mark key="." line="121" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-agenda-fe/angular.json" timestamp="1547803946951">
+        <mark key="[" line="11" column="7" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-promotions-fe/src/app/authentication/authentication.component.ts" timestamp="1544793515466">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="28" column="2" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-shared/projects/cm-shared-services/src/lib/cm-shared-services.module.ts" timestamp="1544687510578">
+        <mark key="[" line="29" column="21" />
+        <mark key="]" line="33" column="7" />
+        <mark key="^" line="33" column="7" />
+        <mark key="." line="33" column="7" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-migration-fe/src/app/services/labels/label.service.spec.ts" timestamp="1543915616208">
+        <mark key="[" line="28" column="29" />
+        <mark key="]" line="30" column="50" />
+        <mark key="." line="30" column="50" />
+        <mark key="^" line="30" column="50" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-promotions-fe/src/app/auth/auth.component.ts" timestamp="1544539435144">
+        <mark key="[" line="27" column="27" />
+        <mark key="]" line="31" column="62" />
+        <mark key="^" line="31" column="62" />
+        <mark key="." line="31" column="62" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-promotions-fe/src/app/services/user-service/user.service.spec.ts" timestamp="1545057464977">
+        <mark key="[" line="63" column="33" />
+        <mark key="]" line="49" column="25" />
+        <mark key="." line="49" column="25" />
+        <mark key="^" line="49" column="25" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-promotions-fe/src/app/promotion-list/promotion-list.component.html" timestamp="1544533690752">
+        <mark key="[" line="9" column="28" />
+        <mark key="]" line="9" column="41" />
+        <mark key="^" line="9" column="41" />
+        <mark key="." line="9" column="41" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-migration-fe/src/app/core/child/child.component.html" timestamp="1543595289175">
+        <mark key="[" line="36" column="40" />
+        <mark key="]" line="36" column="40" />
+        <mark key="." line="36" column="40" />
+        <mark key="^" line="35" column="34" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-jobsite-fe/app/views/detail.html" timestamp="1548065968647">
+        <mark key="[" line="90" column="77" />
+        <mark key="]" line="90" column="104" />
+        <mark key="^" line="90" column="104" />
+        <mark key="." line="90" column="104" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-shared/projects/cm-shared-services/src/lib/user-service/user.service.ts" timestamp="1544794892369">
+        <mark key="[" line="56" column="33" />
+        <mark key="]" line="52" column="2" />
+        <mark key="^" line="52" column="2" />
+        <mark key="." line="52" column="2" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-migration-fe/src/app/sk-auth/register/register.component.spec.ts" timestamp="1543931274323">
+        <mark key="[" line="19" column="27" />
+        <mark key="]" line="20" column="30" />
+        <mark key="^" line="20" column="30" />
+        <mark key="." line="20" column="30" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-backend-be/modules/skoebidoe/tests/server/routes/sk.promotions.server.routes.js" timestamp="1544180059776">
+        <mark key="[" line="518" column="4" />
+        <mark key="]" line="518" column="4" />
+        <mark key="^" line="519" column="4" />
+        <mark key="." line="518" column="4" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-migration-fe/src/app/core/shared/date-utils.ts" timestamp="1543819088101">
+        <mark key="[" line="2" column="57" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-backend-be/modules/skoebidoe/server/policies/sk.family.profile.server.policy.js" timestamp="1544014025090">
+        <mark key="[" line="61" column="5" />
+        <mark key="]" line="57" column="28" />
+        <mark key="^" line="57" column="28" />
+        <mark key="." line="57" column="28" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-migration-fe/src/app/child/child.component.html" timestamp="1543306711787">
+        <mark key="[" line="12" column="52" />
+        <mark key="]" line="12" column="52" />
+        <mark key="^" line="17" column="36" />
+        <mark key="." line="12" column="52" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-familyprofiel-fe/app/scripts/factories/family-profile.js" timestamp="1544434699212">
+        <mark key="[" line="31" column="17" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-promotions-fe/src/app/auth/auth.module.ts" timestamp="1544716112351">
+        <mark key="[" line="31" column="18" />
+        <mark key="]" line="33" column="28" />
+        <mark key="." line="33" column="28" />
+        <mark key="^" line="33" column="28" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-shared/projects/cm-shared-components/package.json" timestamp="1544710201749">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="19" />
+        <mark key="." line="2" column="19" />
+        <mark key="^" line="7" column="31" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-migration-fe/src/app/done/done.component.html" timestamp="1543591897381">
+        <mark key="[" line="28" column="15" />
+        <mark key="]" line="28" column="26" />
+        <mark key="." line="28" column="26" />
+        <mark key="^" line="28" column="26" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-promotions-fe/src/app/authentication/authentication.component.html" timestamp="1544783700674">
+        <mark key="[" line="30" column="28" />
+        <mark key="]" line="24" column="30" />
+        <mark key="." line="24" column="30" />
+        <mark key="^" line="24" column="30" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-migration-fe/src/app/sk-auth/message/message.component.html" timestamp="1543478839595">
+        <mark key="[" line="8" column="83" />
+        <mark key="]" line="9" column="7" />
+        <mark key="." line="9" column="7" />
+        <mark key="^" line="9" column="7" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-verzekeringenaansluiten-fe/app/scripts/factories/progress.js" timestamp="1545141830924">
+        <mark key="[" line="56" column="26" />
+        <mark key="]" line="56" column="25" />
+        <mark key="^" line="56" column="25" />
+        <mark key="." line="56" column="25" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-backend-be/config/env/local.js" timestamp="1547729634160">
+        <mark key="[" line="42" column="4" />
+        <mark key="]" line="47" column="3" />
+        <mark key="." line="47" column="3" />
+        <mark key="^" line="47" column="3" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-migration-fe/src/app/app.component.html" timestamp="1543407684886">
+        <mark key="[" line="10" column="28" />
+        <mark key="]" line="10" column="28" />
+        <mark key="." line="10" column="28" />
+        <mark key="^" line="10" column="28" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-promotions-fe/src/app/core/promotion/promotion.component.spec.ts" timestamp="1545054060397">
+        <mark key="[" line="142" column="53" />
+        <mark key="]" line="143" column="4" />
+        <mark key="." line="143" column="4" />
+        <mark key="^" line="143" column="4" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-shared/projects/cm-shared-services/src/public_api.ts" timestamp="1544687523530">
+        <mark key="[" line="17" column="25" />
+        <mark key="]" line="17" column="25" />
+        <mark key="^" line="14" column="0" />
+        <mark key="." line="17" column="25" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-migration-fe/src/app/core/progress-bar-item/progress-bar-item.component.ts" timestamp="1543914858841">
+        <mark key="[" line="7" column="38" />
+        <mark key="]" line="28" column="19" />
+        <mark key="^" line="28" column="19" />
+        <mark key="." line="28" column="19" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-jobsite-fe/app/scripts/factories/vacancies.js" timestamp="1548062975273">
+        <mark key="'" line="29" column="28" />
+        <mark key="[" line="47" column="8" />
+        <mark key="]" line="14" column="35" />
+        <mark key="." line="14" column="35" />
+        <mark key="^" line="14" column="35" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-promotions-fe/src/app/promotion/promotion.component.spec.ts" timestamp="1544685077796">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="6" column="37" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-backend-be/config/env/default.js" timestamp="1547476948466">
+        <mark key="[" line="45" column="18" />
+        <mark key="]" line="49" column="54" />
+        <mark key="." line="49" column="54" />
+        <mark key="^" line="49" column="54" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-promotions-fe/src/app/core/promotion/promotion.component.html" timestamp="1547646972639">
+        <mark key="[" line="15" column="59" />
+        <mark key="]" line="18" column="9" />
+        <mark key="." line="18" column="9" />
+        <mark key="^" line="18" column="9" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-migration-fe/package.json" timestamp="1544514186975">
+        <mark key="[" line="55" column="3" />
+        <mark key="]" line="60" column="2" />
+        <mark key="^" line="60" column="2" />
+        <mark key="." line="60" column="2" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-promotions-fe/src/app/app-routing.module.ts" timestamp="1545038697771">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="18" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-verzekeringenaansluiten-fe/app/scripts/controllers/result.js" timestamp="1545142848252">
+        <mark key="[" line="294" column="6" />
+        <mark key="]" line="300" column="28" />
+        <mark key="^" line="300" column="28" />
+        <mark key="." line="300" column="28" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-migration-fe/src/app/shared/shared.module.ts" timestamp="1543913126910">
+        <mark key="[" line="14" column="16" />
+        <mark key="]" line="14" column="16" />
+        <mark key="." line="14" column="16" />
+        <mark key="^" line="21" column="14" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-backend-be/config/eid/site.js" timestamp="1547722808941">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-migration-fe/src/app/core/children/children.component.spec.ts" timestamp="1543913998571">
+        <mark key="[" line="18" column="31" />
+        <mark key="]" line="19" column="26" />
+        <mark key="^" line="19" column="26" />
+        <mark key="." line="19" column="26" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-migration-fe/src/app/core/my-cm/my-cm.component.spec.ts" timestamp="1543930806800">
+        <mark key="[" line="23" column="37" />
+        <mark key="]" line="26" column="6" />
+        <mark key="^" line="26" column="6" />
+        <mark key="." line="26" column="6" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-shared/projects/cm-shared-components/src/lib/authentication/password-reset/password-reset.component.ts" timestamp="1544698628505">
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="4" column="31" />
+        <mark key="." line="4" column="31" />
+        <mark key="^" line="4" column="31" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-verzekeringenaansluiten-fe/app/index.html" timestamp="1545123565000">
+        <mark key="[" line="114" column="10" />
+        <mark key="]" line="117" column="37" />
+        <mark key="^" line="117" column="37" />
+        <mark key="." line="117" column="37" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-promotions-fe/src/app/auth/auth.component.html" timestamp="1544538793864">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="1" column="35" />
+        <mark key="." line="1" column="35" />
+        <mark key="^" line="1" column="35" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-promotions-fe/src/app/core/auth-control/auth-control.component.html" timestamp="1545037859236">
+        <mark key="[" line="13" column="11" />
+        <mark key="]" line="39" column="9" />
+        <mark key="^" line="39" column="9" />
+        <mark key="." line="39" column="9" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-verzekeringenaansluiten-fe/app/views/payment.html" timestamp="1545140785135">
+        <mark key="[" line="15" column="49" />
+        <mark key="]" line="13" column="42" />
+        <mark key="." line="13" column="42" />
+        <mark key="^" line="13" column="42" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/webstorm64.exe.vmoptions" timestamp="1547733905177">
+        <mark key="[" line="0" column="28" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-migration-fe/src/app/core/my-cm/my-cm.component.html" timestamp="1547637912743">
+        <mark key="[" line="2" column="40" />
+        <mark key="]" line="2" column="46" />
+        <mark key="^" line="2" column="46" />
+        <mark key="." line="2" column="46" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-migration-fe/src/app/sk-auth/password-reset/password-reset.component.spec.ts" timestamp="1543931210465">
+        <mark key="[" line="17" column="20" />
+        <mark key="]" line="18" column="30" />
+        <mark key="^" line="18" column="30" />
+        <mark key="." line="18" column="30" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-migration-fe/src/app/core/skoebidoe/skoebidoe.component.spec.ts" timestamp="1543915146553">
+        <mark key="[" line="15" column="31" />
+        <mark key="]" line="16" column="26" />
+        <mark key="^" line="16" column="26" />
+        <mark key="." line="16" column="26" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-migration-fe/src/app/core/children/children.component.html" timestamp="1547643549954">
+        <mark key="'" line="231" column="16" />
+        <mark key="[" line="228" column="0" />
+        <mark key="]" line="228" column="0" />
+        <mark key="." line="228" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-homepage-fe/app/styles/main.css" timestamp="1547630098383">
+        <mark key="[" line="42" column="1" />
+        <mark key="]" line="40" column="20" />
+        <mark key="^" line="40" column="20" />
+        <mark key="." line="40" column="20" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-shared/projects/cm-shared-components/src/lib/cm-shared-components.module.ts" timestamp="1544610083695">
+        <mark key="[" line="15" column="26" />
+        <mark key="]" line="9" column="36" />
+        <mark key="^" line="9" column="36" />
+        <mark key="." line="9" column="36" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-backend-be/modules/skoebidoe/client/views/create-skPromotions.client.view.html" timestamp="1543828088264">
+        <mark key="[" line="209" column="47" />
+        <mark key="]" line="209" column="62" />
+        <mark key="." line="209" column="62" />
+        <mark key="^" line="209" column="62" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-promotions-fe/src/app/core/authentication/authentication.component.html" timestamp="1547718252837">
+        <mark key="[" line="17" column="27" />
+        <mark key="]" line="19" column="13" />
+        <mark key="^" line="19" column="13" />
+        <mark key="." line="19" column="13" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-jobsite-fe/app/scripts/controllers/detail.js" timestamp="1548069299443">
+        <mark key="'" line="131" column="24" />
+        <mark key="[" line="161" column="20" />
+        <mark key="]" line="161" column="20" />
+        <mark key="." line="161" column="20" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-verzekeringenaansluiten-fe/app/aansluiten-vmob.html" timestamp="1545123598005">
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="132" column="0" />
+        <mark key="." line="132" column="0" />
+        <mark key="^" line="101" column="9" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-backend-be/modules/parameters/client/config/parameters.client.config.js" timestamp="1544628230085">
+        <mark key="[" line="15" column="20" />
+        <mark key="]" line="18" column="5" />
+        <mark key="^" line="18" column="5" />
+        <mark key="." line="18" column="5" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-promotions-fe/src/app/guards/auth.guard.spec.ts" timestamp="1545059185501">
+        <mark key="[" line="44" column="22" />
+        <mark key="]" line="55" column="8" />
+        <mark key="^" line="55" column="8" />
+        <mark key="." line="55" column="8" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-migration-fe/src/app/core/done/done.component.ts" timestamp="1544446798589">
+        <mark key="[" line="51" column="23" />
+        <mark key="]" line="51" column="23" />
+        <mark key="." line="51" column="23" />
+        <mark key="^" line="51" column="23" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-promotions-fe/src/app/auth-components/auth/auth.component.spec.ts" timestamp="1545043639849">
+        <mark key="[" line="38" column="34" />
+        <mark key="]" line="40" column="31" />
+        <mark key="." line="40" column="31" />
+        <mark key="^" line="40" column="31" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-migration-fe/src/app/core/skoebidoe/skoebidoe.component.html" timestamp="1547637903151">
+        <mark key="[" line="2" column="45" />
+        <mark key="]" line="2" column="51" />
+        <mark key="^" line="2" column="51" />
+        <mark key="." line="2" column="51" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-migration-fe/src/app/sk-auth/register/register.component.ts" timestamp="1544795421735">
+        <mark key="[" line="14" column="71" />
+        <mark key="]" line="14" column="88" />
+        <mark key="^" line="14" column="88" />
+        <mark key="." line="14" column="88" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-profile-fe/app/index.html" timestamp="1544453689131">
+        <mark key="[" line="117" column="0" />
+        <mark key="]" line="117" column="58" />
+        <mark key="^" line="117" column="43" />
+        <mark key="." line="117" column="43" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-migration-fe/src/app/services/step/step.service.spec.ts" timestamp="1543935775772">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-profile-fe/.eslintrc.json" timestamp="1544108596425">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-backend-be/modules/skoebidoe/tests/server/routes/sk.family.export.server.routes.js" timestamp="1547465317431">
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
+        <mark key="^" line="108" column="32" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-backend-be/modules/skoebidoe/server/models/sk.family.profile.server.model.js" timestamp="1543565096045">
+        <mark key="[" line="80" column="16" />
+        <mark key="]" line="80" column="20" />
+        <mark key="." line="80" column="20" />
+        <mark key="^" line="80" column="20" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-shared/projects/cm-shared-components/src/lib/authentication/auth/auth.component.html" timestamp="1544620270351">
+        <mark key="[" line="2" column="5" />
+        <mark key="]" line="8" column="15" />
+        <mark key="^" line="8" column="15" />
+        <mark key="." line="8" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-promotions-fe/src/app/auth-control/auth-control.component.html" timestamp="1544796524216">
+        <mark key="[" line="12" column="28" />
+        <mark key="]" line="8" column="30" />
+        <mark key="." line="8" column="30" />
+        <mark key="^" line="8" column="30" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-migration-fe/src/app/core/progress-bar/progress-bar.component.spec.ts" timestamp="1543930015378">
+        <mark key="[" line="14" column="20" />
+        <mark key="]" line="15" column="26" />
+        <mark key="^" line="15" column="26" />
+        <mark key="." line="15" column="26" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-backend-be/modules/skoebidoe/server/routes/sk.family.profile.server.routes.js" timestamp="1544083721325">
+        <mark key="[" line="76" column="25" />
+        <mark key="]" line="76" column="36" />
+        <mark key="." line="76" column="36" />
+        <mark key="^" line="76" column="36" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-profile-fe/app/scripts/services/parameter.js" timestamp="1544453969787">
+        <mark key="[" line="31" column="10" />
+        <mark key="]" line="36" column="6" />
+        <mark key="^" line="36" column="6" />
+        <mark key="." line="36" column="6" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-shared/projects/cm-shared-services/src/lib/parameter/parameter.service.ts" timestamp="1544794799609">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+        <mark key="^" line="64" column="39" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-promotions-fe/src/app/core/authentication/authentication.component.ts" timestamp="1547717000924">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="^" line="43" column="32" />
+        <mark key="." line="53" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-promotions-fe/src/app/services/parameter/parameter.service.spec.ts" timestamp="1545055553741">
+        <mark key="[" line="59" column="34" />
+        <mark key="]" line="63" column="4" />
+        <mark key="^" line="63" column="4" />
+        <mark key="." line="63" column="4" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-migration-fe/src/app/sk-auth/sk-auth.module.ts" timestamp="1544712066767">
+        <mark key="[" line="23" column="24" />
+        <mark key="]" line="23" column="14" />
+        <mark key="^" line="23" column="14" />
+        <mark key="." line="23" column="14" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-migration-fe/src/app/core/progress-bar/progress-bar.component.ts" timestamp="1547644514523">
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="12" column="8" />
+        <mark key="." line="12" column="8" />
+        <mark key="^" line="12" column="8" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-promotions-fe/src/app/services/label/label.service.ts" timestamp="1544538133868">
+        <mark key="[" line="65" column="3" />
+        <mark key="]" line="73" column="2" />
+        <mark key="^" line="73" column="2" />
+        <mark key="." line="73" column="2" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-promotions-fe/src/app/auth-components/login/login.component.spec.ts" timestamp="1545054769709">
+        <mark key="[" line="12" column="16" />
+        <mark key="]" line="13" column="19" />
+        <mark key="." line="13" column="19" />
+        <mark key="^" line="13" column="19" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-migration-fe/src/index.html" timestamp="1543916395482">
+        <mark key="[" line="10" column="31" />
+        <mark key="]" line="10" column="51" />
+        <mark key="." line="10" column="51" />
+        <mark key="^" line="10" column="51" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-promotions-fe/src/app/auth-components/password-reset/password-reset.component.spec.ts" timestamp="1545053843718">
+        <mark key="[" line="12" column="56" />
+        <mark key="]" line="29" column="50" />
+        <mark key="." line="29" column="50" />
+        <mark key="^" line="29" column="50" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-backend-be/config/assets/test.js" timestamp="1547454742266">
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="6" column="24" />
+        <mark key="." line="6" column="24" />
+        <mark key="^" line="6" column="24" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-backend-be/modules/labels/client/config/labels.client.config.js" timestamp="1544538566218">
+        <mark key="[" line="57" column="6" />
+        <mark key="]" line="41" column="14" />
+        <mark key="^" line="41" column="14" />
+        <mark key="." line="57" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-migration-fe/src/app/services/parameter/parameter.service.spec.ts" timestamp="1543915708499">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-migration-fe/src/app/my-cm/my-cm.component.ts" timestamp="1543591555360">
+        <mark key="[" line="32" column="41" />
+        <mark key="]" line="27" column="10" />
+        <mark key="." line="27" column="10" />
+        <mark key="^" line="27" column="10" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-migration-fe/src/app/core/progress-bar-item/progress-bar-item.component.spec.ts" timestamp="1543914926351">
+        <mark key="[" line="23" column="42" />
+        <mark key="]" line="24" column="31" />
+        <mark key="^" line="24" column="31" />
+        <mark key="." line="24" column="31" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-promotions-fe/package.json" timestamp="1544710948971">
+        <mark key="[" line="25" column="29" />
+        <mark key="]" line="25" column="27" />
+        <mark key="^" line="25" column="27" />
+        <mark key="." line="25" column="27" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-migration-fe/src/app/sk-auth/auth/auth.component.html" timestamp="1544450423426">
+        <mark key="[" line="15" column="67" />
+        <mark key="]" line="9" column="47" />
+        <mark key="." line="9" column="47" />
+        <mark key="^" line="9" column="47" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-shared/projects/cm-shared-services/src/lib/label-service/label.service.ts" timestamp="1545032700216">
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="^" line="98" column="1" />
+        <mark key="." line="97" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-backend-be/modules/shared/mail-utils.js" timestamp="1544180153632">
+        <mark key="[" line="26" column="36" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-promotions-fe/src/app/services/user/user.service.ts" timestamp="1544624721826">
+        <mark key="[" line="208" column="11" />
+        <mark key="]" line="208" column="77" />
+        <mark key="^" line="208" column="77" />
+        <mark key="." line="208" column="77" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-promotions-fe/src/app/cm-login/cm-login.component.ts" timestamp="1544795610569">
+        <mark key="[" line="1" column="22" />
+        <mark key="]" line="1" column="22" />
+        <mark key="." line="1" column="22" />
+        <mark key="^" line="18" column="25" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-migration-fe/src/app/sk-auth/login/login.component.spec.ts" timestamp="1543930852905">
+        <mark key="[" line="13" column="20" />
+        <mark key="]" line="14" column="30" />
+        <mark key="." line="14" column="30" />
+        <mark key="^" line="14" column="30" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-promotions-fe/proxy.conf.json" timestamp="1544789120097">
+        <mark key="[" line="7" column="26" />
+        <mark key="]" line="11" column="34" />
+        <mark key="^" line="11" column="34" />
+        <mark key="." line="11" column="34" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-profile-fe/app/scripts/directives/load-profile.js" timestamp="1544189041428">
+        <mark key="[" line="19" column="47" />
+        <mark key="]" line="22" column="5" />
+        <mark key="^" line="22" column="5" />
+        <mark key="." line="22" column="5" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-promotions-fe/src/app/app.module.ts" timestamp="1544798334651">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="8" column="13" />
+        <mark key="." line="40" column="0" />
+      </file>
+      <file name="C:/dump/labels_SHARED_COMPONENTS.json" timestamp="1544771019347">
+        <mark key="[" line="1" column="106" />
+        <mark key="]" line="1" column="106" />
+        <mark key="^" line="13" column="51" />
+        <mark key="." line="1" column="106" />
+      </file>
+      <file name="C:/dump/labels_BE.json" timestamp="1543850795716">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-new-design/src/mean-fe/insurance-subscription/index.html" timestamp="1545118125876">
+        <mark key="[" line="110" column="13" />
+        <mark key="]" line="115" column="6" />
+        <mark key="." line="115" column="6" />
+        <mark key="^" line="115" column="6" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-shared/projects/cm-shared-components/src/lib/authentication/auth/auth.component.ts" timestamp="1544698660699">
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="6" column="21" />
+        <mark key="." line="6" column="21" />
+        <mark key="^" line="6" column="21" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-shared/projects/cm-shared-components/src/lib/authentication/password-reset/password-reset.component.html" timestamp="1544620050381">
+        <mark key="[" line="27" column="39" />
+        <mark key="]" line="20" column="11" />
+        <mark key="." line="20" column="11" />
+        <mark key="^" line="20" column="11" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-promotions-fe/src/app/auth-components/registration/strong-password/strong-password.directive.spec.ts" timestamp="1545050153504">
+        <mark key="[" line="8" column="59" />
+        <mark key="]" line="8" column="74" />
+        <mark key="^" line="8" column="74" />
+        <mark key="." line="8" column="74" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-shared/projects/cm-shared-components/src/lib/authentication/login/login.component.ts" timestamp="1544710173761">
+        <mark key="[" line="38" column="27" />
+        <mark key="]" line="35" column="35" />
+        <mark key="." line="35" column="35" />
+        <mark key="^" line="35" column="35" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-promotions-fe/src/app/auth/registration/registration.component.ts" timestamp="1544794949841">
+        <mark key="[" line="59" column="34" />
+        <mark key="]" line="61" column="9" />
+        <mark key="." line="61" column="9" />
+        <mark key="^" line="61" column="9" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-shared/projects/cm-shared-components/src/lib/authentication/registration/registration.component.ts" timestamp="1544794956680">
+        <mark key="[" line="47" column="36" />
+        <mark key="]" line="46" column="20" />
+        <mark key="^" line="46" column="20" />
+        <mark key="." line="46" column="20" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-migration-fe/src/app/sk-auth/auth/auth.component.ts" timestamp="1544450394241">
+        <mark key="[" line="28" column="33" />
+        <mark key="]" line="29" column="39" />
+        <mark key="." line="29" column="39" />
+        <mark key="^" line="29" column="39" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-migration-fe/src/app/core/child/child.component.ts" timestamp="1543819681486">
+        <mark key="[" line="12" column="45" />
+        <mark key="]" line="12" column="45" />
+        <mark key="^" line="16" column="23" />
+        <mark key="." line="12" column="45" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-migration-fe/src/app/services/sk-profile/sk-profile.service.ts" timestamp="1544451243182">
+        <mark key="[" line="25" column="52" />
+        <mark key="]" line="75" column="52" />
+        <mark key="^" line="75" column="52" />
+        <mark key="." line="75" column="52" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-jobsite-fe/app/scripts/app.js" timestamp="1548063716276">
+        <mark key="'" line="113" column="16" />
+        <mark key="[" line="115" column="76" />
+        <mark key="]" line="115" column="78" />
+        <mark key="^" line="115" column="78" />
+        <mark key="." line="115" column="78" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-promotions-fe/src/app/services/user/auth.guard.ts" timestamp="1544596154824">
+        <mark key="[" line="20" column="5" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-profile-fe/app/scripts/controllers/profile.js" timestamp="1544454043122">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+        <mark key="^" line="43" column="35" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-profile-fe/app/scripts/directives/skoebidoe-migration.js" timestamp="1544191875894">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="19" column="6" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-shared/projects/cm-shared-components/src/lib/authentication/message/message.component.ts" timestamp="1544620190276">
+        <mark key="[" line="3" column="13" />
+        <mark key="]" line="8" column="23" />
+        <mark key="." line="8" column="23" />
+        <mark key="^" line="8" column="23" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-migration-fe/src/app/sk-auth/password-reset/password-reset.component.ts" timestamp="1543595720684">
+        <mark key="[" line="13" column="16" />
+        <mark key="]" line="12" column="38" />
+        <mark key="^" line="12" column="38" />
+        <mark key="." line="12" column="38" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-migration-fe/src/app/strong-password/password-feedback/password-feedback.component.ts" timestamp="1543595829358">
+        <mark key="[" line="9" column="22" />
+        <mark key="]" line="14" column="13" />
+        <mark key="^" line="14" column="13" />
+        <mark key="." line="14" column="13" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-backend-be/modules/pas/server/templates/pdfTemplatePasRequestSummary.html" timestamp="1543223909478">
+        <mark key="[" line="211" column="53" />
+        <mark key="]" line="211" column="55" />
+        <mark key="^" line="211" column="55" />
+        <mark key="." line="211" column="55" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-promotions-fe/src/app/auth/password-forgotten/password-forgotten.component.ts" timestamp="1544795240095">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="32" column="23" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-migration-fe/src/app/core/progress-bar-item/progress-bar-item.component.css" timestamp="1547645560756">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-verzekeringenaansluiten-fe/app/scripts/controllers/profile.js" timestamp="1545123414480">
+        <mark key="[" line="134" column="0" />
+        <mark key="]" line="151" column="46" />
+        <mark key="^" line="151" column="46" />
+        <mark key="." line="151" column="46" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-promotions-fe/src/app/services/society-service/society.service.spec.ts" timestamp="1545045467399">
+        <mark key="[" line="6" column="51" />
+        <mark key="]" line="7" column="36" />
+        <mark key="^" line="7" column="36" />
+        <mark key="." line="7" column="36" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-migration-fe/src/app/sk-auth/auth/auth.component.spec.ts" timestamp="1543930816624">
+        <mark key="[" line="39" column="7" />
+        <mark key="]" line="42" column="6" />
+        <mark key="." line="42" column="6" />
+        <mark key="^" line="42" column="6" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-agenda-fe/src/app/cm-agenda.module.ts" timestamp="1547804179427">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-migration-fe/angular.json" timestamp="1547800185177">
+        <mark key="'" line="24" column="13" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-migration-fe/src/styles.css" timestamp="1547800969117">
+        <mark key="[" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-migration-fe/src/app/core/shared/children-utils.ts" timestamp="1543819410820">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-migration-fe/src/app/child/child.component.ts" timestamp="1543332687524">
+        <mark key="[" line="0" column="55" />
+        <mark key="]" line="0" column="55" />
+        <mark key="^" line="31" column="12" />
+        <mark key="." line="0" column="55" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-backend-be/modules/skoebidoe/tests/server/controllers/sk.family.export.server.controller.test.js" timestamp="1547464742518">
+        <mark key="[" line="47" column="40" />
+        <mark key="]" line="47" column="53" />
+        <mark key="^" line="47" column="53" />
+        <mark key="." line="47" column="53" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-migration-fe/src/app/core/children/children.component.ts" timestamp="1547643441849">
+        <mark key="[" line="98" column="18" />
+        <mark key="]" line="98" column="19" />
+        <mark key="^" line="98" column="19" />
+        <mark key="." line="98" column="19" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-backend-be/modules/skoebidoe/server/controllers/sk.family.profile.server.controller.js" timestamp="1547626782970">
+        <mark key="[" line="644" column="0" />
+        <mark key="]" line="644" column="0" />
+        <mark key="." line="644" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-promotions-fe/src/app/promotion/promotion.component.html" timestamp="1544602033884">
+        <mark key="[" line="15" column="62" />
+        <mark key="]" line="15" column="68" />
+        <mark key="^" line="15" column="68" />
+        <mark key="." line="15" column="68" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-migration-fe/src/app/services/society/society.service.spec.ts" timestamp="1543915751455">
+        <mark key="[" line="6" column="51" />
+        <mark key="]" line="7" column="39" />
+        <mark key="^" line="7" column="39" />
+        <mark key="." line="7" column="39" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-migration-fe/src/app/app.module.ts" timestamp="1543911225568">
+        <mark key="[" line="41" column="14" />
+        <mark key="]" line="41" column="22" />
+        <mark key="." line="41" column="22" />
+        <mark key="^" line="41" column="22" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-migration-fe/src/app/migration/migration.component.ts" timestamp="1543932648352">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="20" column="23" />
+        <mark key="^" line="20" column="23" />
+        <mark key="." line="20" column="23" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-shared/projects/cm-shared-services/src/lib/parameter/parameter.service.spec.ts" timestamp="1544794709150">
+        <mark key="[" line="58" column="34" />
+        <mark key="]" line="53" column="4" />
+        <mark key="^" line="53" column="4" />
+        <mark key="." line="53" column="4" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-migration-fe/src/app/services/sk-profile/sk-profile.service.spec.ts" timestamp="1543915718330">
+        <mark key="[" line="6" column="51" />
+        <mark key="]" line="7" column="39" />
+        <mark key="^" line="7" column="39" />
+        <mark key="." line="7" column="39" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-promotions-fe/src/app/core/core.module.ts" timestamp="1545038594034">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="14" column="59" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-migration-fe/src/app/app-routing.module.ts" timestamp="1543935945237">
+        <mark key="[" line="13" column="16" />
+        <mark key="]" line="13" column="39" />
+        <mark key="^" line="13" column="39" />
+        <mark key="." line="13" column="39" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-shared/projects/cm-shared-components/src/public_api.ts" timestamp="1544619571228">
+        <mark key="[" line="13" column="17" />
+        <mark key="]" line="13" column="102" />
+        <mark key="." line="13" column="102" />
+        <mark key="^" line="13" column="102" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-promotions-fe/src/app/cm-login/cm-login.component.html" timestamp="1544718151984">
+        <mark key="[" line="1" column="46" />
+        <mark key="]" line="1" column="45" />
+        <mark key="^" line="1" column="45" />
+        <mark key="." line="1" column="45" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-migration-fe/src/app/core/child/child.component.spec.ts" timestamp="1543913824553">
+        <mark key="[" line="29" column="6" />
+        <mark key="]" line="29" column="9" />
+        <mark key="." line="29" column="9" />
+        <mark key="^" line="29" column="9" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-migration-fe/src/app/my-cm/my-cm.component.html" timestamp="1543591558968">
+        <mark key="[" line="17" column="17" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-profile-fe/app/scripts/controllers/load-profile.js" timestamp="1547539800823">
+        <mark key="[" line="22" column="51" />
+        <mark key="]" line="23" column="46" />
+        <mark key="^" line="23" column="46" />
+        <mark key="." line="23" column="46" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-verzekeringenaansluiten-fe/app/scripts/controllers/summary.js" timestamp="1545142929223">
+        <mark key="[" line="56" column="35" />
+        <mark key="]" line="56" column="35" />
+        <mark key="^" line="39" column="39" />
+        <mark key="." line="56" column="35" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-profile-fe/.eslintrc" timestamp="1544108052964">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-migration-fe/src/app/core/done/done.component.spec.ts" timestamp="1543934488864">
+        <mark key="[" line="37" column="26" />
+        <mark key="]" line="38" column="20" />
+        <mark key="." line="38" column="20" />
+        <mark key="^" line="38" column="20" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="366" column="62" filename="$USER_HOME$/projects/cm-backend-be/modules/refunds/server/controllers/refunds.server.controller.js" />
+      <jump line="57" column="18" filename="$USER_HOME$/projects/cm-backend-be/modules/refunds/server/controllers/refunds.server.controller.js" />
+      <jump line="70" column="10" filename="$USER_HOME$/projects/cm-backend-be/modules/refunds/server/controllers/refunds.server.controller.js" />
+      <jump line="390" column="15" filename="$USER_HOME$/projects/cm-backend-be/modules/refunds/server/controllers/refunds.server.controller.js" />
+      <jump line="11" column="16" filename="$USER_HOME$/projects/cm-backend-be/modules/refunds/server/controllers/refunds.server.controller.js" />
+      <jump line="13" column="0" filename="$USER_HOME$/projects/cm-terugbetalingen-fe/app/views/search.html" />
+      <jump line="39" column="306" filename="$USER_HOME$/projects/cm-terugbetalingen-fe/app/views/search.html" />
+      <jump line="88" column="23" filename="$USER_HOME$/projects/cm-backend-be/modules/pas/server/controllers/pas.server.controller.js" />
+      <jump line="24" column="58" filename="$USER_HOME$/projects/cm-backend-be/modules/pas/server/controllers/pas.server.controller.js" />
+      <jump line="385" column="8" filename="$USER_HOME$/projects/cm-backend-be/modules/pas/server/controllers/pas.server.controller.js" />
+      <jump line="386" column="22" filename="$USER_HOME$/projects/cm-backend-be/modules/pas/server/controllers/pas.server.controller.js" />
+      <jump line="387" column="8" filename="$USER_HOME$/projects/cm-backend-be/modules/pas/server/controllers/pas.server.controller.js" />
+      <jump line="388" column="13" filename="$USER_HOME$/projects/cm-backend-be/modules/pas/server/controllers/pas.server.controller.js" />
+      <jump line="740" column="6" filename="$USER_HOME$/projects/cm-backend-be/modules/pas/server/controllers/pas.server.controller.js" />
+      <jump line="27" column="24" filename="$USER_HOME$/projects/cm-backend-be/modules/pas/server/controllers/pas.server.controller.js" />
+      <jump line="798" column="27" filename="$USER_HOME$/projects/cm-backend-be/modules/pas/server/controllers/pas.server.controller.js" />
+      <jump line="329" column="22" filename="$USER_HOME$/projects/cm-backend-be/modules/pas/server/controllers/pas.server.controller.js" />
+      <jump line="601" column="86" filename="$USER_HOME$/projects/cm-backend-be/modules/pas/server/controllers/pas.server.controller.js" />
+      <jump line="236" column="4" filename="$USER_HOME$/projects/cm-backend-be/modules/pas/server/controllers/pas.server.controller.js" />
+      <jump line="237" column="80" filename="$USER_HOME$/projects/cm-backend-be/modules/pas/server/controllers/pas.server.controller.js" />
+      <jump line="238" column="80" filename="$USER_HOME$/projects/cm-backend-be/modules/pas/server/controllers/pas.server.controller.js" />
+      <jump line="239" column="80" filename="$USER_HOME$/projects/cm-backend-be/modules/pas/server/controllers/pas.server.controller.js" />
+      <jump line="240" column="80" filename="$USER_HOME$/projects/cm-backend-be/modules/pas/server/controllers/pas.server.controller.js" />
+      <jump line="241" column="80" filename="$USER_HOME$/projects/cm-backend-be/modules/pas/server/controllers/pas.server.controller.js" />
+      <jump line="242" column="80" filename="$USER_HOME$/projects/cm-backend-be/modules/pas/server/controllers/pas.server.controller.js" />
+      <jump line="243" column="80" filename="$USER_HOME$/projects/cm-backend-be/modules/pas/server/controllers/pas.server.controller.js" />
+      <jump line="244" column="80" filename="$USER_HOME$/projects/cm-backend-be/modules/pas/server/controllers/pas.server.controller.js" />
+      <jump line="245" column="80" filename="$USER_HOME$/projects/cm-backend-be/modules/pas/server/controllers/pas.server.controller.js" />
+      <jump line="246" column="81" filename="$USER_HOME$/projects/cm-backend-be/modules/pas/server/controllers/pas.server.controller.js" />
+      <jump line="676" column="11" filename="$USER_HOME$/projects/cm-backend-be/modules/pas/server/controllers/pas.server.controller.js" />
+      <jump line="606" column="40" filename="$USER_HOME$/projects/cm-backend-be/modules/pas/server/controllers/pas.server.controller.js" />
+      <jump line="728" column="42" filename="$USER_HOME$/projects/cm-backend-be/modules/pas/server/controllers/pas.server.controller.js" />
+      <jump line="732" column="22" filename="$USER_HOME$/projects/cm-backend-be/modules/pas/server/controllers/pas.server.controller.js" />
+      <jump line="816" column="36" filename="$USER_HOME$/projects/cm-backend-be/modules/pas/server/controllers/pas.server.controller.js" />
+      <jump line="446" column="6" filename="$USER_HOME$/projects/cm-backend-be/modules/pas/server/controllers/pas.server.controller.js" />
+      <jump line="447" column="18" filename="$USER_HOME$/projects/cm-backend-be/modules/pas/server/controllers/pas.server.controller.js" />
+      <jump line="450" column="2" filename="$USER_HOME$/projects/cm-backend-be/modules/pas/server/controllers/pas.server.controller.js" />
+      <jump line="456" column="8" filename="$USER_HOME$/projects/cm-backend-be/modules/pas/server/controllers/pas.server.controller.js" />
+      <jump line="468" column="6" filename="$USER_HOME$/projects/cm-backend-be/modules/pas/server/controllers/pas.server.controller.js" />
+      <jump line="476" column="13" filename="$USER_HOME$/projects/cm-backend-be/modules/pas/server/controllers/pas.server.controller.js" />
+      <jump line="477" column="11" filename="$USER_HOME$/projects/cm-backend-be/modules/pas/server/controllers/pas.server.controller.js" />
+      <jump line="484" column="23" filename="$USER_HOME$/projects/cm-backend-be/modules/pas/server/controllers/pas.server.controller.js" />
+      <jump line="492" column="29" filename="$USER_HOME$/projects/cm-backend-be/modules/pas/server/controllers/pas.server.controller.js" />
+      <jump line="510" column="27" filename="$USER_HOME$/projects/cm-backend-be/modules/pas/server/controllers/pas.server.controller.js" />
+      <jump line="517" column="32" filename="$USER_HOME$/projects/cm-backend-be/modules/pas/server/controllers/pas.server.controller.js" />
+      <jump line="84" column="36" filename="$USER_HOME$/projects/cm-pas-fe/app/scripts/controllers/step1.js" />
+      <jump line="65" column="58" filename="$USER_HOME$/projects/cm-pas-fe/app/scripts/controllers/step1.js" />
+      <jump line="118" column="73" filename="$USER_HOME$/projects/cm-pas-fe/app/views/step1.html" />
+      <jump line="222" column="42" filename="$USER_HOME$/projects/cm-pas-fe/test/spec/controllers/step1.js" />
+      <jump line="279" column="7" filename="$USER_HOME$/projects/cm-pas-fe/test/spec/controllers/step1.js" />
+      <jump line="282" column="7" filename="$USER_HOME$/projects/cm-pas-fe/test/spec/controllers/step1.js" />
+      <jump line="15" column="5" filename="$USER_HOME$/projects/cm-pas-fe/test/spec/controllers/step1.js" />
+      <jump line="20" column="123" filename="$USER_HOME$/projects/cm-pas-fe/test/spec/controllers/step1.js" />
+      <jump line="28" column="21" filename="$USER_HOME$/projects/cm-pas-fe/test/spec/controllers/step1.js" />
+      <jump line="104" column="7" filename="$USER_HOME$/projects/cm-pas-fe/test/spec/controllers/step1.js" />
+      <jump line="109" column="7" filename="$USER_HOME$/projects/cm-pas-fe/test/spec/controllers/step1.js" />
+      <jump line="138" column="49" filename="$USER_HOME$/projects/cm-backend-be/modules/skoebidoe/server/controllers/sk.family.export.server.controller.js" />
+      <jump line="139" column="51" filename="$USER_HOME$/projects/cm-backend-be/modules/skoebidoe/server/controllers/sk.family.export.server.controller.js" />
+      <jump line="137" column="3" filename="$USER_HOME$/projects/cm-backend-be/modules/skoebidoe/server/controllers/sk.family.export.server.controller.js" />
+      <jump line="141" column="51" filename="$USER_HOME$/projects/cm-backend-be/modules/skoebidoe/server/controllers/sk.family.export.server.controller.js" />
+      <jump line="41" column="52" filename="$USER_HOME$/projects/cm-backend-be/modules/skoebidoe/server/controllers/sk.family.export.server.controller.js" />
+      <jump line="12" column="24" filename="$USER_HOME$/projects/cm-backend-be/modules/hospitals/server/controllers/hospitals.import.server.controller.js" />
+      <jump line="21" column="25" filename="$USER_HOME$/projects/cm-backend-be/modules/hospitals/server/controllers/hospitals.import.server.controller.js" />
+      <jump line="29" column="39" filename="$USER_HOME$/projects/cm-backend-be/modules/hospitals/server/controllers/hospitals.import.server.controller.js" />
+      <jump line="38" column="38" filename="$USER_HOME$/projects/cm-backend-be/modules/hospitals/server/controllers/hospitals.import.server.controller.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/cm-loginbutton-fe/app/views/button.html" />
+      <jump line="64" column="56" filename="$USER_HOME$/projects/cm-loginbutton-fe/app/views/button.html" />
+      <jump line="65" column="38" filename="$USER_HOME$/projects/cm-loginbutton-fe/app/views/button.html" />
+      <jump line="34" column="44" filename="$USER_HOME$/projects/cm-loginbutton-fe/app/views/button.html" />
+      <jump line="35" column="32" filename="$USER_HOME$/projects/cm-loginbutton-fe/app/views/button.html" />
+      <jump line="2" column="54" filename="$USER_HOME$/projects/cm-sk-migration-fe/src/app/core/children/children.component.html" />
+      <jump line="60" column="33" filename="$USER_HOME$/projects/cm-sk-migration-fe/src/app/core/children/children.component.html" />
+      <jump line="145" column="45" filename="$USER_HOME$/projects/cm-sk-migration-fe/src/app/core/children/children.component.html" />
+      <jump line="147" column="31" filename="$USER_HOME$/projects/cm-sk-migration-fe/src/app/core/children/children.component.html" />
+      <jump line="153" column="45" filename="$USER_HOME$/projects/cm-sk-migration-fe/src/app/core/children/children.component.html" />
+      <jump line="155" column="31" filename="$USER_HOME$/projects/cm-sk-migration-fe/src/app/core/children/children.component.html" />
+      <jump line="50" column="47" filename="$USER_HOME$/projects/cm-sk-migration-fe/src/app/core/children/children.component.html" />
+      <jump line="52" column="33" filename="$USER_HOME$/projects/cm-sk-migration-fe/src/app/core/children/children.component.html" />
+      <jump line="58" column="47" filename="$USER_HOME$/projects/cm-sk-migration-fe/src/app/core/children/children.component.html" />
+      <jump line="228" column="18" filename="$USER_HOME$/projects/cm-sk-migration-fe/src/app/core/children/children.component.html" />
+      <jump line="232" column="16" filename="$USER_HOME$/projects/cm-sk-migration-fe/src/app/core/children/children.component.html" />
+      <jump line="32" column="0" filename="$USER_HOME$/projects/cm-sk-migration-fe/src/app/core/skoebidoe/skoebidoe.component.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/cm-sk-migration-fe/angular.json" />
+      <jump line="25" column="19" filename="$USER_HOME$/projects/cm-sk-migration-fe/angular.json" />
+      <jump line="82" column="13" filename="$USER_HOME$/projects/cm-sk-migration-fe/angular.json" />
+      <jump line="83" column="19" filename="$USER_HOME$/projects/cm-sk-migration-fe/angular.json" />
+      <jump line="24" column="13" filename="$USER_HOME$/projects/cm-sk-migration-fe/angular.json" />
+      <jump line="28" column="17" filename="$USER_HOME$/projects/cm-jobsite-fe/app/scripts/factories/vacancies.js" />
+      <jump line="27" column="28" filename="$USER_HOME$/projects/cm-jobsite-fe/app/scripts/factories/vacancies.js" />
+      <jump line="113" column="16" filename="$USER_HOME$/projects/cm-jobsite-fe/app/scripts/app.js" />
+      <jump line="115" column="0" filename="$USER_HOME$/projects/cm-jobsite-fe/app/scripts/controllers/detail.js" />
+      <jump line="109" column="7" filename="$USER_HOME$/projects/cm-jobsite-fe/app/scripts/controllers/detail.js" />
+      <jump line="37" column="136" filename="$USER_HOME$/projects/cm-jobsite-fe/app/scripts/controllers/detail.js" />
+      <jump line="44" column="25" filename="$USER_HOME$/projects/cm-jobsite-fe/app/scripts/controllers/detail.js" />
+      <jump line="45" column="25" filename="$USER_HOME$/projects/cm-jobsite-fe/app/scripts/controllers/detail.js" />
+      <jump line="47" column="43" filename="$USER_HOME$/projects/cm-jobsite-fe/app/scripts/controllers/detail.js" />
+      <jump line="111" column="44" filename="$USER_HOME$/projects/cm-jobsite-fe/app/scripts/controllers/detail.js" />
+      <jump line="128" column="81" filename="$USER_HOME$/projects/cm-jobsite-fe/app/scripts/controllers/detail.js" />
+      <jump line="94" column="11" filename="$USER_HOME$/projects/cm-jobsite-fe/app/scripts/controllers/detail.js" />
+      <jump line="129" column="24" filename="$USER_HOME$/projects/cm-jobsite-fe/app/scripts/controllers/detail.js" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>2</text>
+      </register>
+      <register name="-" type="4">
+        <text>2</text>
+      </register>
+      <register name="/" type="4">
+        <text>&quot;</text>
+      </register>
+      <register name="0" type="4">
+        <text>{
+        'author': 'urn:li:person:8675309',
+        'lifecycleState': 'PUBLISHED',
+        'specificContent': {
+          'com.linkedin.ugc.ShareContent': {
+            'shareCommentary': {
+              'text': 'Hello World! This is my first Share on LinkedIn!'
+            },
+            'shareMediaCategory': 'NONE'
+          }
+        },
+        'visibility': {
+          'com.linkedin.ugc.MemberNetworkVisibility': 'PUBLIC'
+        }
+      }</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhJTi5Vc2VyLmdldE1lbWJlcklkKCkpOwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJGxvY2F0aW9uLmFic1VybCgpKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgZnVuY3Rpb24gc2hhcmVDb250ZW50KCkgewo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICB2YWNhbmNpZXMgPSBKU09OLnBhcnNlKHZhY2FuY2llc01vY2spLnJlcXVpc2l0aW9ucy5yZXF1aXNpdGlvbjsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEpTT04ucGFyc2UodmFjYW5jaWVzTW9jaykucmVxdWlzaXRpb25zLnJlcXVpc2l0aW9uOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>&quot;</last-search>
+      <last-offset />
+      <last-pattern>&quot;</last-pattern>
+      <last-replace>'</last-replace>
+      <last-substitute>&quot;</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>phantom</entry>
+        <entry>steps</entry>
+        <entry>RNR</entry>
+        <entry>console</entry>
+        <entry>httpBackend</entry>
+        <entry>created_on</entry>
+        <entry>xlsx</entry>
+        <entry>xlsxto</entry>
+        <entry>uploads</entry>
+        <entry>upload</entry>
+        <entry>profile</entry>
+        <entry>radio</entry>
+        <entry>optin</entry>
+        <entry>styles</entry>
+        <entry>stylePre</entry>
+        <entry>window</entry>
+        <entry>location</entry>
+        <entry>getDetailDescription</entry>
+        <entry>%s</entry>
+        <entry>&quot;</entry>
+      </history-search>
+      <history-cmd>
+        <entry>e</entry>
+        <entry>2</entry>
+        <entry>Lw</entry>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry>q</entry>
+        <entry>W</entry>
+        <entry>%&quot;/'/g</entry>
+        <entry>%s&quot;/'/g</entry>
+        <entry>%s/&quot;/'/g</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
