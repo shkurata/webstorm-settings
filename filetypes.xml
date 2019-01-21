@@ -1,8 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping pattern="skoebidoe-migration" type="JavaScript" />
-      <removed_mapping pattern="skoebidoe-migration.js" approved="true" type="PLAIN_TEXT" />
-    </extensionMap>
-  </component>
-</application>
