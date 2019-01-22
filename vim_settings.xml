@@ -192,7 +192,7 @@
         <mark key="^" line="28" column="19" />
         <mark key="." line="28" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/cm-jobsite-fe/app/scripts/factories/vacancies.js" timestamp="1548062975273">
+      <file name="$USER_HOME$/projects/cm-jobsite-fe/app/scripts/factories/vacancies.js" timestamp="1548138337339">
         <mark key="'" line="29" column="28" />
         <mark key="[" line="47" column="8" />
         <mark key="]" line="14" column="35" />
@@ -343,11 +343,10 @@
         <mark key="^" line="19" column="13" />
         <mark key="." line="19" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/cm-jobsite-fe/app/scripts/controllers/detail.js" timestamp="1548079917272">
-        <mark key="[" line="130" column="32" />
-        <mark key="]" line="130" column="40" />
-        <mark key="^" line="130" column="40" />
-        <mark key="." line="130" column="40" />
+      <file name="$USER_HOME$/projects/cm-jobsite-fe/app/scripts/controllers/detail.js" timestamp="1548138301839">
+        <mark key="]" line="122" column="0" />
+        <mark key="^" line="122" column="0" />
+        <mark key="." line="122" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cm-verzekeringenaansluiten-fe/app/aansluiten-vmob.html" timestamp="1545123598005">
         <mark key="[" line="132" column="0" />
