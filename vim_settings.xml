@@ -41,7 +41,6 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="28" column="2" />
       </file>
-      <file name="$USER_HOME$/projects/cm-backend-be/config/env/test.js" timestamp="1548077298617" />
       <file name="$USER_HOME$/projects/cm-shared/projects/cm-shared-services/src/lib/cm-shared-services.module.ts" timestamp="1544687510578">
         <mark key="[" line="29" column="21" />
         <mark key="]" line="33" column="7" />
@@ -161,12 +160,6 @@
         <mark key="]" line="56" column="25" />
         <mark key="^" line="56" column="25" />
         <mark key="." line="56" column="25" />
-      </file>
-      <file name="$USER_HOME$/projects/cm-backend-be/config/env/local.js" timestamp="1547729634160">
-        <mark key="[" line="42" column="4" />
-        <mark key="]" line="47" column="3" />
-        <mark key="." line="47" column="3" />
-        <mark key="^" line="47" column="3" />
       </file>
       <file name="$USER_HOME$/projects/cm-sk-migration-fe/src/app/app.component.html" timestamp="1543407684886">
         <mark key="[" line="10" column="28" />
@@ -660,7 +653,6 @@
         <mark key="." line="29" column="39" />
         <mark key="^" line="29" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/cm-backend-be/modules/proxy/server/routes/proxy.server.routes.js" timestamp="1548077251849" />
       <file name="$USER_HOME$/projects/cm-sk-migration-fe/src/app/core/child/child.component.ts" timestamp="1543819681486">
         <mark key="[" line="12" column="45" />
         <mark key="]" line="12" column="45" />
