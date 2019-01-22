@@ -343,11 +343,11 @@
         <mark key="^" line="19" column="13" />
         <mark key="." line="19" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/cm-jobsite-fe/app/scripts/controllers/detail.js" timestamp="1548139927236">
-        <mark key="[" line="123" column="24" />
-        <mark key="]" line="123" column="33" />
-        <mark key="^" line="123" column="33" />
-        <mark key="." line="123" column="33" />
+      <file name="$USER_HOME$/projects/cm-jobsite-fe/app/scripts/controllers/detail.js" timestamp="1548141981892">
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="149" column="5" />
+        <mark key="^" line="149" column="5" />
+        <mark key="." line="149" column="5" />
       </file>
       <file name="$USER_HOME$/projects/cm-verzekeringenaansluiten-fe/app/aansluiten-vmob.html" timestamp="1545123598005">
         <mark key="[" line="132" column="0" />
@@ -673,12 +673,12 @@
         <mark key="^" line="75" column="52" />
         <mark key="." line="75" column="52" />
       </file>
-      <file name="$USER_HOME$/projects/cm-jobsite-fe/app/scripts/app.js" timestamp="1548140339171">
+      <file name="$USER_HOME$/projects/cm-jobsite-fe/app/scripts/app.js" timestamp="1548141865249">
         <mark key="'" line="113" column="16" />
-        <mark key="[" line="115" column="33" />
-        <mark key="]" line="115" column="33" />
+        <mark key="[" line="115" column="82" />
+        <mark key="]" line="115" column="82" />
         <mark key="^" line="115" column="98" />
-        <mark key="." line="115" column="33" />
+        <mark key="." line="115" column="82" />
       </file>
       <file name="$USER_HOME$/projects/cm-sk-promotions-fe/src/app/services/user/auth.guard.ts" timestamp="1544596154824">
         <mark key="[" line="20" column="5" />
@@ -998,10 +998,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>77kpxrbprjk541</text>
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>77kpxrbprjk541</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwvXD4=</text>
