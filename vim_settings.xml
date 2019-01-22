@@ -336,12 +336,12 @@
         <mark key="^" line="19" column="13" />
         <mark key="." line="19" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/cm-jobsite-fe/app/scripts/controllers/detail.js" timestamp="1548147267356">
+      <file name="$USER_HOME$/projects/cm-jobsite-fe/app/scripts/controllers/detail.js" timestamp="1548149112182">
         <mark key="'" line="109" column="32" />
         <mark key="[" line="124" column="12" />
-        <mark key="]" line="109" column="32" />
-        <mark key="^" line="109" column="32" />
-        <mark key="." line="109" column="32" />
+        <mark key="]" line="125" column="5" />
+        <mark key="^" line="125" column="5" />
+        <mark key="." line="125" column="5" />
       </file>
       <file name="$USER_HOME$/projects/cm-verzekeringenaansluiten-fe/app/aansluiten-vmob.html" timestamp="1545123598005">
         <mark key="[" line="132" column="0" />
@@ -509,6 +509,12 @@
         <mark key="]" line="6" column="24" />
         <mark key="." line="6" column="24" />
         <mark key="^" line="6" column="24" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-backend-be/modules/jobsite/server/policies/media.server.policy.js" timestamp="1548148773819">
+        <mark key="[" line="47" column="25" />
+        <mark key="]" line="47" column="25" />
+        <mark key="^" line="46" column="6" />
+        <mark key="." line="47" column="25" />
       </file>
       <file name="$USER_HOME$/projects/cm-backend-be/modules/labels/client/config/labels.client.config.js" timestamp="1544538566218">
         <mark key="[" line="57" column="6" />
@@ -991,16 +997,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>openFBShareWindow</text>
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>openFBShareWindow</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">PGEgaHJlZj0iamF2YXNjcmlwdDp2b2lkKDApOyIgZGF0YS1uZy1jbGljaz0ib3BlbkZCU2hhcmVXaW5kb3coKTsiPg==</text>
+        <text>{
+      resources: '/api/js/media/recruiter/:recruiter',
+      permissions: ['get']
+    }</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdmcm9tIHZob3N0IGNvbmZpZyBmaWxlJywgcmVxKTsK</text>
@@ -1030,7 +1039,7 @@
         <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>%s/&quot;/'/g</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1074,8 +1083,8 @@
         <entry>W</entry>
         <entry>%&quot;/'/g</entry>
         <entry>%s&quot;/'/g</entry>
-        <entry>w</entry>
         <entry>%s/&quot;/'/g</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
