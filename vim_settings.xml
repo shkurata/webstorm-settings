@@ -77,11 +77,11 @@
         <mark key="." line="36" column="40" />
         <mark key="^" line="35" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/cm-jobsite-fe/app/views/detail.html" timestamp="1548065968647">
-        <mark key="[" line="90" column="77" />
-        <mark key="]" line="90" column="104" />
-        <mark key="^" line="90" column="104" />
-        <mark key="." line="90" column="104" />
+      <file name="$USER_HOME$/projects/cm-jobsite-fe/app/views/detail.html" timestamp="1548145370432">
+        <mark key="[" line="91" column="63" />
+        <mark key="]" line="90" column="91" />
+        <mark key="^" line="90" column="91" />
+        <mark key="." line="90" column="91" />
       </file>
       <file name="$USER_HOME$/projects/cm-shared/projects/cm-shared-services/src/lib/user-service/user.service.ts" timestamp="1544794892369">
         <mark key="[" line="56" column="33" />
@@ -336,11 +336,12 @@
         <mark key="^" line="19" column="13" />
         <mark key="." line="19" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/cm-jobsite-fe/app/scripts/controllers/detail.js" timestamp="1548076949877">
-        <mark key="[" line="130" column="32" />
-        <mark key="]" line="130" column="40" />
-        <mark key="^" line="130" column="40" />
-        <mark key="." line="130" column="40" />
+      <file name="$USER_HOME$/projects/cm-jobsite-fe/app/scripts/controllers/detail.js" timestamp="1548145656533">
+        <mark key="'" line="109" column="32" />
+        <mark key="[" line="124" column="12" />
+        <mark key="]" line="109" column="32" />
+        <mark key="^" line="109" column="32" />
+        <mark key="." line="109" column="32" />
       </file>
       <file name="$USER_HOME$/projects/cm-verzekeringenaansluiten-fe/app/aansluiten-vmob.html" timestamp="1545123598005">
         <mark key="[" line="132" column="0" />
@@ -887,7 +888,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="18" filename="$USER_HOME$/projects/cm-backend-be/modules/refunds/server/controllers/refunds.server.controller.js" />
       <jump line="70" column="10" filename="$USER_HOME$/projects/cm-backend-be/modules/refunds/server/controllers/refunds.server.controller.js" />
       <jump line="390" column="15" filename="$USER_HOME$/projects/cm-backend-be/modules/refunds/server/controllers/refunds.server.controller.js" />
       <jump line="11" column="16" filename="$USER_HOME$/projects/cm-backend-be/modules/refunds/server/controllers/refunds.server.controller.js" />
@@ -987,33 +987,20 @@
       <jump line="94" column="11" filename="$USER_HOME$/projects/cm-jobsite-fe/app/scripts/controllers/detail.js" />
       <jump line="129" column="24" filename="$USER_HOME$/projects/cm-jobsite-fe/app/scripts/controllers/detail.js" />
       <jump line="525" column="13" filename="$USER_HOME$/projects/cm-backend-be/config/middleware/proxyconf.js" />
+      <jump line="108" column="32" filename="$USER_HOME$/projects/cm-jobsite-fe/app/scripts/controllers/detail.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>openFBShareWindow</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>openFBShareWindow</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwvXD4=</text>
+        <text>&quot;</text>
       </register>
       <register name="0" type="4">
-        <text>{
-        'author': 'urn:li:person:8675309',
-        'lifecycleState': 'PUBLISHED',
-        'specificContent': {
-          'com.linkedin.ugc.ShareContent': {
-            'shareCommentary': {
-              'text': 'Hello World! This is my first Share on LinkedIn!'
-            },
-            'shareMediaCategory': 'NONE'
-          }
-        },
-        'visibility': {
-          'com.linkedin.ugc.MemberNetworkVisibility': 'PUBLIC'
-        }
-      }</text>
+        <text encoding="base64">PGEgaHJlZj0iamF2YXNjcmlwdDp2b2lkKDApOyIgZGF0YS1uZy1jbGljaz0ib3BlbkZCU2hhcmVXaW5kb3coKTsiPg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdmcm9tIHZob3N0IGNvbmZpZyBmaWxlJywgcmVxKTsK</text>
@@ -1043,13 +1030,13 @@
         <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/&quot;/'/g</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwvXD4=</last-search>
+      <last-search>&quot;</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwvXD4=</last-pattern>
+      <last-pattern>&quot;</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1075,8 +1062,8 @@
         <entry>location</entry>
         <entry>getDetailDescription</entry>
         <entry>%s</entry>
-        <entry>&quot;</entry>
         <entry encoding="base64">XDwvXD4=</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
@@ -1087,8 +1074,8 @@
         <entry>W</entry>
         <entry>%&quot;/'/g</entry>
         <entry>%s&quot;/'/g</entry>
-        <entry>%s/&quot;/'/g</entry>
         <entry>w</entry>
+        <entry>%s/&quot;/'/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
