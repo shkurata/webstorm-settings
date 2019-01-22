@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/projects/cm-sk-migration-fe/src/app/children/sk-profile.ts" timestamp="1543311238201">
@@ -8,6 +8,12 @@
         <mark key="]" line="18" column="0" />
         <mark key="^" line="18" column="0" />
         <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-backend-be/modules/jobsite/server/routes/media.server.routes.js" timestamp="1548165717861">
+        <mark key="[" line="33" column="18" />
+        <mark key="]" line="33" column="18" />
+        <mark key="." line="33" column="18" />
+        <mark key="^" line="32" column="38" />
       </file>
       <file name="$USER_HOME$/projects/cm-sk-homepage-fe/app/index.html" timestamp="1547639210886">
         <mark key="[" line="86" column="0" />
@@ -192,6 +198,12 @@
         <mark key="." line="14" column="35" />
         <mark key="^" line="14" column="35" />
       </file>
+      <file name="$USER_HOME$/projects/cm-backend-be/modules/jobsite/server/controllers/media.server.controller.js" timestamp="1548166110284">
+        <mark key="[" line="149" column="50" />
+        <mark key="]" line="151" column="54" />
+        <mark key="^" line="151" column="54" />
+        <mark key="." line="151" column="54" />
+      </file>
       <file name="$USER_HOME$/projects/cm-sk-promotions-fe/src/app/promotion/promotion.component.spec.ts" timestamp="1544685077796">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -312,6 +324,11 @@
         <mark key="^" line="16" column="26" />
         <mark key="." line="16" column="26" />
       </file>
+      <file name="$USER_HOME$/projects/cm-backend-be/modules/refunds/server/controllers/refunds.server.controller.js" timestamp="1548165575256">
+        <mark key="'" line="118" column="4" />
+        <mark key="[" line="4" column="6" />
+        <mark key="]" line="4" column="30" />
+      </file>
       <file name="$USER_HOME$/projects/cm-sk-homepage-fe/app/styles/main.css" timestamp="1547630098383">
         <mark key="[" line="42" column="1" />
         <mark key="]" line="40" column="20" />
@@ -336,12 +353,12 @@
         <mark key="^" line="19" column="13" />
         <mark key="." line="19" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/cm-jobsite-fe/app/scripts/controllers/detail.js" timestamp="1548149112182">
+      <file name="$USER_HOME$/projects/cm-jobsite-fe/app/scripts/controllers/detail.js" timestamp="1548165934856">
         <mark key="'" line="109" column="32" />
-        <mark key="[" line="124" column="12" />
-        <mark key="]" line="125" column="5" />
-        <mark key="^" line="125" column="5" />
-        <mark key="." line="125" column="5" />
+        <mark key="[" line="123" column="130" />
+        <mark key="]" line="124" column="24" />
+        <mark key="^" line="124" column="24" />
+        <mark key="." line="124" column="24" />
       </file>
       <file name="$USER_HOME$/projects/cm-verzekeringenaansluiten-fe/app/aansluiten-vmob.html" timestamp="1545123598005">
         <mark key="[" line="132" column="0" />
@@ -510,11 +527,11 @@
         <mark key="." line="6" column="24" />
         <mark key="^" line="6" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/cm-backend-be/modules/jobsite/server/policies/media.server.policy.js" timestamp="1548148773819">
-        <mark key="[" line="47" column="25" />
-        <mark key="]" line="47" column="25" />
-        <mark key="^" line="46" column="6" />
-        <mark key="." line="47" column="25" />
+      <file name="$USER_HOME$/projects/cm-backend-be/modules/jobsite/server/policies/media.server.policy.js" timestamp="1548165277590">
+        <mark key="[" line="50" column="18" />
+        <mark key="]" line="50" column="38" />
+        <mark key="^" line="52" column="5" />
+        <mark key="." line="52" column="5" />
       </file>
       <file name="$USER_HOME$/projects/cm-backend-be/modules/labels/client/config/labels.client.config.js" timestamp="1544538566218">
         <mark key="[" line="57" column="6" />
@@ -894,10 +911,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="10" filename="$USER_HOME$/projects/cm-backend-be/modules/refunds/server/controllers/refunds.server.controller.js" />
-      <jump line="390" column="15" filename="$USER_HOME$/projects/cm-backend-be/modules/refunds/server/controllers/refunds.server.controller.js" />
-      <jump line="11" column="16" filename="$USER_HOME$/projects/cm-backend-be/modules/refunds/server/controllers/refunds.server.controller.js" />
-      <jump line="13" column="0" filename="$USER_HOME$/projects/cm-terugbetalingen-fe/app/views/search.html" />
       <jump line="39" column="306" filename="$USER_HOME$/projects/cm-terugbetalingen-fe/app/views/search.html" />
       <jump line="88" column="23" filename="$USER_HOME$/projects/cm-backend-be/modules/pas/server/controllers/pas.server.controller.js" />
       <jump line="24" column="58" filename="$USER_HOME$/projects/cm-backend-be/modules/pas/server/controllers/pas.server.controller.js" />
@@ -994,22 +1007,23 @@
       <jump line="129" column="24" filename="$USER_HOME$/projects/cm-jobsite-fe/app/scripts/controllers/detail.js" />
       <jump line="525" column="13" filename="$USER_HOME$/projects/cm-backend-be/config/middleware/proxyconf.js" />
       <jump line="108" column="32" filename="$USER_HOME$/projects/cm-jobsite-fe/app/scripts/controllers/detail.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/cm-backend-be/modules/refunds/server/controllers/refunds.server.controller.js" />
+      <jump line="3" column="22" filename="$USER_HOME$/projects/cm-backend-be/modules/refunds/server/controllers/refunds.server.controller.js" />
+      <jump line="4" column="23" filename="$USER_HOME$/projects/cm-backend-be/modules/refunds/server/controllers/refunds.server.controller.js" />
+      <jump line="118" column="4" filename="$USER_HOME$/projects/cm-backend-be/modules/refunds/server/controllers/refunds.server.controller.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>\'</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>\'</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;</text>
+        <text>http</text>
       </register>
       <register name="0" type="4">
-        <text>{
-      resources: '/api/js/media/recruiter/:recruiter',
-      permissions: ['get']
-    }</text>
+        <text>https = require('https');</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdmcm9tIHZob3N0IGNvbmZpZyBmaWxlJywgcmVxKTsK</text>
@@ -1043,9 +1057,9 @@
       </register>
     </registers>
     <search>
-      <last-search>&quot;</last-search>
+      <last-search>http</last-search>
       <last-offset />
-      <last-pattern>&quot;</last-pattern>
+      <last-pattern>http</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1053,7 +1067,6 @@
     </search>
     <history>
       <history-search>
-        <entry>steps</entry>
         <entry>RNR</entry>
         <entry>console</entry>
         <entry>httpBackend</entry>
@@ -1073,6 +1086,7 @@
         <entry>%s</entry>
         <entry encoding="base64">XDwvXD4=</entry>
         <entry>&quot;</entry>
+        <entry>http</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
