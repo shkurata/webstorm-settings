@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/projects/cm-sk-migration-fe/src/app/children/sk-profile.ts" timestamp="1543311238201">
