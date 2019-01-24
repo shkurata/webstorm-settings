@@ -59,8 +59,17 @@
         <mark key="^" line="24" column="75" />
         <mark key="." line="24" column="75" />
       </file>
-      <file name="$USER_HOME$/projects/cm-verzekeringenaansluiten-fe/app/views/payment.html" timestamp="1548333429251">
-        <mark key="[" line="8" column="12" />
+      <file name="$USER_HOME$/projects/cm-verzekeringenaansluiten-fe/app/views/profile.html" timestamp="1548337689209">
+        <mark key="[" line="3" column="41" />
+        <mark key="]" line="3" column="44" />
+        <mark key="." line="3" column="44" />
+        <mark key="^" line="3" column="44" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-verzekeringenaansluiten-fe/app/views/payment.html" timestamp="1548338903885">
+        <mark key="[" line="162" column="26" />
+        <mark key="]" line="162" column="26" />
+        <mark key="^" line="21" column="56" />
+        <mark key="." line="162" column="26" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/webstorm64.exe.vmoptions" timestamp="1548231582003">
         <mark key="[" line="1" column="0" />
@@ -76,6 +85,12 @@
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-verzekeringenaansluiten-fe/app/scripts/controllers/payment.js" timestamp="1548337264085">
+        <mark key="[" line="40" column="42" />
+        <mark key="]" line="41" column="47" />
+        <mark key="^" line="41" column="47" />
+        <mark key="." line="41" column="47" />
       </file>
       <file name="$USER_HOME$/projects/cm-auth-fe/test/spec/controllers/signup.js" timestamp="1548249866669">
         <mark key="[" line="96" column="80" />
@@ -145,6 +160,9 @@
         <mark key="^" line="28" column="55" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/cm-verzekeringenaansluiten-fe/app/views/personal.html" timestamp="1548338390089">
+        <mark key="'" line="142" column="69" />
+      </file>
       <file name="$USER_HOME$/projects/cm-auth-fe/app/views/signup.html" timestamp="1548249981347">
         <mark key="'" line="153" column="43" />
       </file>
@@ -196,43 +214,63 @@
       <jump line="109" column="22" filename="$USER_HOME$/projects/cm-sk-familyprofiel-fe/app/scripts/controllers/family-profile.js" />
       <jump line="11" column="25" filename="$USER_HOME$/projects/dump/mean-dev.vz_insurancetars.json" />
       <jump line="767" column="1" filename="$USER_HOME$/projects/dump/mean-dev.vz_insurancetars.json" />
+      <jump line="216" column="14" filename="$USER_HOME$/projects/cm-verzekeringenaansluiten-fe/app/views/personal.html" />
+      <jump line="224" column="20" filename="$USER_HOME$/projects/cm-verzekeringenaansluiten-fe/app/views/personal.html" />
+      <jump line="259" column="70" filename="$USER_HOME$/projects/cm-verzekeringenaansluiten-fe/app/views/personal.html" />
+      <jump line="357" column="71" filename="$USER_HOME$/projects/cm-verzekeringenaansluiten-fe/app/views/personal.html" />
+      <jump line="384" column="28" filename="$USER_HOME$/projects/cm-verzekeringenaansluiten-fe/app/views/personal.html" />
+      <jump line="389" column="70" filename="$USER_HOME$/projects/cm-verzekeringenaansluiten-fe/app/views/personal.html" />
+      <jump line="35" column="69" filename="$USER_HOME$/projects/cm-verzekeringenaansluiten-fe/app/views/personal.html" />
+      <jump line="40" column="70" filename="$USER_HOME$/projects/cm-verzekeringenaansluiten-fe/app/views/personal.html" />
+      <jump line="42" column="256" filename="$USER_HOME$/projects/cm-verzekeringenaansluiten-fe/app/views/personal.html" />
+      <jump line="45" column="240" filename="$USER_HOME$/projects/cm-verzekeringenaansluiten-fe/app/views/personal.html" />
+      <jump line="56" column="69" filename="$USER_HOME$/projects/cm-verzekeringenaansluiten-fe/app/views/personal.html" />
+      <jump line="69" column="70" filename="$USER_HOME$/projects/cm-verzekeringenaansluiten-fe/app/views/personal.html" />
+      <jump line="71" column="270" filename="$USER_HOME$/projects/cm-verzekeringenaansluiten-fe/app/views/personal.html" />
+      <jump line="86" column="69" filename="$USER_HOME$/projects/cm-verzekeringenaansluiten-fe/app/views/personal.html" />
+      <jump line="91" column="70" filename="$USER_HOME$/projects/cm-verzekeringenaansluiten-fe/app/views/personal.html" />
+      <jump line="96" column="109" filename="$USER_HOME$/projects/cm-verzekeringenaansluiten-fe/app/views/personal.html" />
+      <jump line="128" column="132" filename="$USER_HOME$/projects/cm-verzekeringenaansluiten-fe/app/views/personal.html" />
+      <jump line="142" column="69" filename="$USER_HOME$/projects/cm-verzekeringenaansluiten-fe/app/views/personal.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>street</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>street</text>
       </register>
       <register name="/" type="4">
-        <text>2018</text>
+        <text>secure</text>
       </register>
-      <register name="0" type="4">
-        <text>window.location.pathname</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJmb3JtLWxhYmVsLWJvbGQiIGRhdGEtaTE4bj0iZmllbGQucGF5bWVudC5tZXRob2QuQlRyYW5zIj48L3NwYW4+Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">PGRpdiBjbGFzcz0iY29sLXNtLTEwIGNvbC14cy0xMiIgZGF0YS1uZy1zaG93PSJzZWN1cmUiPgogICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAtbXVsdGlwbGUiPgogICAgICAgICAgICAgICAgPHA+CiAgICAgICAgICAgICAgICAgIDxzcGFuIGRhdGEtbmctYmluZD0iaW5mby5hZGRyZXNzLnN0cmVldCI+PC9zcGFuPgogICAgICAgICAgICAgICAgICA8c3BhbiBkYXRhLW5nLWJpbmQ9ImluZm8uYWRkcmVzcy5udW1iZXIiPjwvc3Bhbj4KICAgICAgICAgICAgICAgICAgPHNwYW4gZGF0YS1uZy1iaW5kPSJpbmZvLmFkZHJlc3MuYm94bnVtYmVyIiBkYXRhLW5nLWlmPSJpbmZvLmFkZHJlc3MuYm94bnVtYmVyIj48L3NwYW4+CiAgICAgICAgICAgICAgICAgIDxzcGFuIGRhdGEtbmctYmluZD0iaW5mby5hZGRyZXNzLmluZGV4IiBkYXRhLW5nLWlmPSJpbmZvLmFkZHJlc3MuaW5kZXgiPjwvc3Bhbj4KICAgICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgICAgIDxwPgogICAgICAgICAgICAgICAgICA8c3BhbiBkYXRhLW5nLWJpbmQ9ImluZm8uYWRkcmVzcy5wb3N0YWxjb2RlIj48L3NwYW4+CiAgICAgICAgICAgICAgICAgIDxzcGFuIGRhdGEtbmctYmluZD0iaW5mby5hZGRyZXNzLm11bmljaXBhbGl0eSI+PC9zcGFuPgogICAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICAgICAgPHA+CiAgICAgICAgICAgICAgICAgIDxzcGFuIGRhdGEtbmctYmluZD0iaW5mby5hZGRyZXNzLmNvdW50cnkiPjwvc3Bhbj4KICAgICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tbm90aWZpY2F0aW9uIGNtLWhlbHAiIGRhdGEtbmctc2hvdz0ibGlua3MuYWRkcmVzcyI+CiAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tbm90aWZpY2F0aW9uLWljb24iPgogICAgICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJpY29uIGljb25fZm9ybS1oZWxwIj48L2k+CiAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJmb3JtLW5vdGlmaWNhdGlvbi1tZXNzYWdlIj4KICAgICAgICAgICAgICAgICAgICA8YSBkYXRhLW5nLWhyZWY9Int7bGlua3MuYWRkcmVzc319IiB0YXJnZXQ9Il9ibGFuayIgZGF0YS1pMThuPSJtZXNzYWdlLmFkZHJlc3MuY2hhbmdlIj48L2E+CiAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2Pg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXNsaW50LWNvbmZpZy1haXJibmIK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucmVkaXJlY3RVcmwpOwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIDxsZWdlbmQgY21JMThuPSJtZXNzYWdlLmNvbm5lY3QiICpuZ0lmPSJpc0F1dGhlbnRpY2F0ZWQiPjwvbGVnZW5kPgo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="4" type="4">
+        <text>// $scope.fetchedMeFromFamily = fetchedMeFromFamily;
+        // $scope.fetchedMyMail = fetchedMyMail;
+        // $scope.fetchedContract = fetchedContract;</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">PGRpdiBjbGFzcz0iZm9ybS1ncm91cC1tdWx0aXBsZSI+CiAgICAgICAgICAgICAgPGxhYmVsPgogICAgICAgICAgICAgICAgPGlucHV0IGNsYXNzPSJyYWRpbyIgdHlwZT0icmFkaW8iIGlkPSJwYXltZW50TWV0aG9kMyIgbmFtZT0icGF5bWVudE1ldGhvZCIgZGF0YS1uZy1tb2RlbD0iaW5mby5wYXltZW50TWV0aG9kIiB2YWx1ZT0iWVRyYW5zIj4KICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJyYWRpby1jdXN0b20iPjwvc3Bhbj4KICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJmb3JtLWxhYmVsLWJvbGQiIGRhdGEtaTE4bj0iZmllbGQucGF5bWVudC5tZXRob2QuWVRyYW5zIj48L3NwYW4+CiAgICAgICAgICAgICAgPC9sYWJlbD4KICAgICAgICAgICAgPC9kaXY+</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxsZWdlbmQgY21JMThuPSJtZXNzYWdlLmxvZ2luIiAqbmdJZj0iIWlzQXV0aGVudGljYXRlZCI+PC9sZWdlbmQ+Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh3aW5kb3cubG9jYXRpb24ub3JpZ2luICsgd2luZG93LmxvY2F0aW9uLnBhdGhuYW1lKTsK</text>
+        <text encoding="base64">ZXNsaW50LWNvbmZpZy1haXJibmIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ0VSUk9SIERBVEEnLCBKU09OLnN0cmluZ2lmeShlcnIuZGF0YSkpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucmVkaXJlY3RVcmwpOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -242,9 +280,9 @@
       </register>
     </registers>
     <search>
-      <last-search>2018</last-search>
+      <last-search>secure</last-search>
       <last-offset />
-      <last-pattern>2018</last-pattern>
+      <last-pattern>secure</last-pattern>
       <last-replace>2019</last-replace>
       <last-substitute>2018</last-substitute>
       <last-dir>1</last-dir>
@@ -261,6 +299,7 @@
         <entry>skoebi</entry>
         <entry>skoebidoe</entry>
         <entry>2018</entry>
+        <entry>secure</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
@@ -280,6 +319,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
