@@ -1,6 +1,6 @@
 <application>
   <component name="GeneralSettings">
-    <option name="defaultProjectDirectory" value="C:\Users\7508145\projects" />
+    <option name="defaultProjectDirectory" value="C:\Users\7508145\projects\" />
     <option name="showTipsOnStartup" value="false" />
   </component>
   <component name="Registry">
