@@ -55,6 +55,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/cm-verzekeringensimuleren-fe/Gruntfile.js" timestamp="1548319795902">
+        <mark key="[" line="85" column="23" />
+        <mark key="]" line="85" column="24" />
+        <mark key="." line="85" column="24" />
+      </file>
       <file name="$USER_HOME$/projects/cm-arbeidsongeschiktheid-fe/app/scripts/controllers/mobility.js" timestamp="1548233607151">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -244,6 +249,8 @@
         <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
