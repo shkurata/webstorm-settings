@@ -3,11 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/cm-sk-promotions-fe/src/app/core/authentication/authentication.component.ts" timestamp="1548254931602">
-        <mark key="[" line="27" column="70" />
-        <mark key="]" line="28" column="33" />
-        <mark key="^" line="28" column="33" />
-        <mark key="." line="28" column="33" />
+      <file name="$USER_HOME$/projects/cm-sk-promotions-fe/src/app/core/authentication/authentication.component.ts" timestamp="1548311358504">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cm-backend-be/modules/jobsite/server/controllers/media.server.controller.js" timestamp="1548238361629">
         <mark key="[" line="143" column="0" />
@@ -36,6 +35,13 @@
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-familyprofiel-fe/app/views/family-profile.html" timestamp="1548313130131">
+        <mark key="'" line="198" column="31" />
+        <mark key="[" line="140" column="57" />
+        <mark key="]" line="140" column="58" />
+        <mark key="^" line="140" column="62" />
+        <mark key="." line="140" column="58" />
       </file>
       <file name="$USER_HOME$/projects/cm-auth-fe/app/scripts/controllers/signin.js" timestamp="1548250513131">
         <mark key="'" line="24" column="75" />
@@ -90,6 +96,13 @@
         <mark key="[" line="15" column="42" />
         <mark key="]" line="15" column="42" />
         <mark key="." line="15" column="42" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-sk-familyprofiel-fe/app/scripts/controllers/family-profile.js" timestamp="1548312541416">
+        <mark key="'" line="109" column="22" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="29" />
+        <mark key="^" line="18" column="29" />
+        <mark key="." line="18" column="29" />
       </file>
       <file name="$USER_HOME$/projects/cm-arbeidsongeschiktheid-fe/app/scripts/controllers/workresumptiondate.js" timestamp="1548233650834">
         <mark key="[" line="26" column="0" />
@@ -157,55 +170,62 @@
       <jump line="153" column="43" filename="$USER_HOME$/projects/cm-auth-fe/app/views/signup.html" />
       <jump line="24" column="75" filename="$USER_HOME$/projects/cm-auth-fe/app/scripts/controllers/signin.js" />
       <jump line="28" column="0" filename="$USER_HOME$/projects/cm-sk-promotions-fe/src/app/guards/auth.guard.ts" />
+      <jump line="198" column="31" filename="$USER_HOME$/projects/cm-sk-familyprofiel-fe/app/views/family-profile.html" />
+      <jump line="71" column="20" filename="$USER_HOME$/projects/cm-sk-familyprofiel-fe/app/scripts/controllers/family-profile.js" />
+      <jump line="107" column="22" filename="$USER_HOME$/projects/cm-sk-familyprofiel-fe/app/scripts/controllers/family-profile.js" />
+      <jump line="18" column="45" filename="$USER_HOME$/projects/cm-sk-familyprofiel-fe/app/scripts/controllers/family-profile.js" />
+      <jump line="19" column="48" filename="$USER_HOME$/projects/cm-sk-familyprofiel-fe/app/scripts/controllers/family-profile.js" />
+      <jump line="73" column="20" filename="$USER_HOME$/projects/cm-sk-familyprofiel-fe/app/scripts/controllers/family-profile.js" />
+      <jump line="109" column="22" filename="$USER_HOME$/projects/cm-sk-familyprofiel-fe/app/scripts/controllers/family-profile.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucmVkaXJlY3RVcmwpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>error</text>
+        <text>skoebidoe</text>
       </register>
       <register name="0" type="4">
         <text>window.location.pathname</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucmVkaXJlY3RVcmwpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxsZWdlbmQgY21JMThuPSJtZXNzYWdlLmNvbm5lY3QiICpuZ0lmPSJpc0F1dGhlbnRpY2F0ZWQiPjwvbGVnZW5kPgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIDxsZWdlbmQgY21JMThuPSJtZXNzYWdlLmxvZ2luIiAqbmdJZj0iIWlzQXV0aGVudGljYXRlZCI+PC9sZWdlbmQ+Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh3aW5kb3cubG9jYXRpb24ub3JpZ2luICsgd2luZG93LmxvY2F0aW9uLnBhdGhuYW1lKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ0VSUk9SIERBVEEnLCBKU09OLnN0cmluZ2lmeShlcnIuZGF0YSkpOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIDxsZWdlbmQgY21JMThuPSJtZXNzYWdlLmNvbm5lY3QiICpuZ0lmPSJpc0F1dGhlbnRpY2F0ZWQiPjwvbGVnZW5kPgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIDxsZWdlbmQgY21JMThuPSJtZXNzYWdlLmxvZ2luIiAqbmdJZj0iIWlzQXV0aGVudGljYXRlZCI+PC9sZWdlbmQ+Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh3aW5kb3cubG9jYXRpb24ub3JpZ2luICsgd2luZG93LmxvY2F0aW9uLnBhdGhuYW1lKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ0VSUk9SIERBVEEnLCBKU09OLnN0cmluZ2lmeShlcnIuZGF0YSkpOwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ0VSUk9SIERBVEEgbGVuZ3RoJywgSlNPTi5zdHJpbmdpZnkoZXJyLmRhdGEpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdFUlJPUjogJywgZXJyLmRhdGEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ0VSUk9SIERBVEEgbGVuZ3RoJywgSlNPTi5zdHJpbmdpZnkoZXJyLmRhdGEpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdTVUNDRVNTJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdFUlJPUjogJywgZXJyLmRhdGEpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>error</last-search>
+      <last-search>skoebidoe</last-search>
       <last-offset />
-      <last-pattern>error</last-pattern>
+      <last-pattern>skoebidoe</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -214,6 +234,11 @@
         <entry>signin</entry>
         <entry>signupLink</entry>
         <entry>error</entry>
+        <entry>condition</entry>
+        <entry>generel</entry>
+        <entry>phone</entry>
+        <entry>skoebi</entry>
+        <entry>skoebidoe</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
