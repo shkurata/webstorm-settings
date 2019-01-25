@@ -47,6 +47,7 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/cm-jobsite-fe/app/bower_components/angular/angular.js" timestamp="1548406177564" />
       <file name="$USER_HOME$/projects/cm-sk-familyprofiel-fe/app/views/family-profile.html" timestamp="1548313130131">
         <mark key="'" line="198" column="31" />
         <mark key="[" line="140" column="57" />
@@ -140,6 +141,13 @@
         <mark key="^" line="280" column="8" />
         <mark key="." line="295" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/cm-jobsite-fe/.eslintrc" timestamp="1548406123228">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="20" />
+        <mark key="^" line="1" column="20" />
+        <mark key="." line="1" column="20" />
+      </file>
       <file name="$USER_HOME$/projects/cm-arbeidsongeschiktheid-fe/app/scripts/controllers/done.js" timestamp="1548233591207">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -162,7 +170,7 @@
         <mark key="^" line="18" column="29" />
         <mark key="." line="18" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/cm-jobsite-fe/app/scripts/factories/metatags.js" timestamp="1548405758194">
+      <file name="$USER_HOME$/projects/cm-jobsite-fe/app/scripts/factories/metatags.js" timestamp="1548406341457">
         <mark key="'" line="51" column="23" />
       </file>
       <file name="$USER_HOME$/projects/cm-arbeidsongeschiktheid-fe/app/scripts/controllers/workresumptiondate.js" timestamp="1548233650834">
@@ -285,6 +293,7 @@
       <jump line="128" column="132" filename="$USER_HOME$/projects/cm-verzekeringenaansluiten-fe/app/views/personal.html" />
       <jump line="142" column="69" filename="$USER_HOME$/projects/cm-verzekeringenaansluiten-fe/app/views/personal.html" />
       <jump line="51" column="23" filename="$USER_HOME$/projects/cm-jobsite-fe/app/scripts/factories/metatags.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/cm-jobsite-fe/.eslintrc" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
