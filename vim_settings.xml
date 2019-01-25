@@ -170,8 +170,11 @@
         <mark key="^" line="18" column="29" />
         <mark key="." line="18" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/cm-jobsite-fe/app/scripts/factories/metatags.js" timestamp="1548406341457">
-        <mark key="'" line="51" column="23" />
+      <file name="$USER_HOME$/projects/cm-jobsite-fe/app/scripts/factories/metatags.js" timestamp="1548407487021">
+        <mark key="'" line="43" column="23" />
+        <mark key="[" line="44" column="84" />
+        <mark key="]" line="44" column="84" />
+        <mark key="." line="44" column="84" />
       </file>
       <file name="$USER_HOME$/projects/cm-arbeidsongeschiktheid-fe/app/scripts/controllers/workresumptiondate.js" timestamp="1548233650834">
         <mark key="[" line="26" column="0" />
@@ -296,11 +299,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/cm-jobsite-fe/.eslintrc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSIvc2NyaXB0cy9mYWN0b3JpZXMvbWV0YXRhZ3MuanMiPjwvc2NyaXB0Pgo=</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>vacancies</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -308,32 +311,40 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSIvc2NyaXB0cy9mYWN0b3JpZXMvbWV0YXRhZ3MuanMiPjwvc2NyaXB0Pgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">YW5ndWxhcgo=</text>
+      <register name="1" type="4">
+        <text>function clearTags() {
+    angular.forEach(tagElements, function(tagElement) {
+      document.head.removeChild(tagElement);
+    });
+    tagElements.length = 0;
+  }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9LCB7fSlbXTsK</text>
+        <text encoding="base64">ICB2YXIgdGFnRWxlbWVudHMgPSBbXTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBjb250YWluZXI7Cg==</text>
+        <text encoding="base64">ICB2YXIgZGVmYXVsdFRhZ3MgPSB7fTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICBzZXJ2aWNlLnNldERlZmF1bHRUYWdzID0gc2V0RGVmYXVsdFRhZ3M7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmICghbW9kZWxWYWx1ZSkgewo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IGRhdGEtbmctbWF4bGVuZ3RoPSIzNCIKICAgICAgICAgICAgICAgICAgICBtYXhsZW5ndGg9IjM0Ig==</text>
+        <text>function setDefaultTags(tags) {
+    angular.copy(tags, defaultTags);
+    setTags({});
+  }</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgZGF0YS1uZy1tYXhsZW5ndGg9IjI1MCIKICAgICAgICAgICAgICAgICAgICBtYXhsZW5ndGg9IjI1MCI=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgdGFnRWxlbWVudHMucHVzaCh0YWdFbGVtZW50KTsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">PGRpdiBjbGFzcz0iZm9ybS1ncm91cC1tdWx0aXBsZSI+CiAgICAgICAgICAgICAgICAgIDxpbnB1dAogICAgICAgICAgICAgICAgICAgIG5hbWU9InBvc3RhbCIKICAgICAgICAgICAgICAgICAgICBpZD0icG9zdGFsIgogICAgICAgICAgICAgICAgICAgIHR5cGU9InRleHQiCiAgICAgICAgICAgICAgICAgICAgY2xhc3M9ImZvcm0tY29udHJvbCIKICAgICAgICAgICAgICAgICAgICBkYXRhLW5nLWNsYXNzPSJ7J2Zvcm0tZXJyb3InOiBpbmZvRm9ybS4kc3VibWl0dGVkICYmIGluZm9Gb3JtLnBvc3RhbC4kaW52YWxpZH0iCiAgICAgICAgICAgICAgICAgICAgZGF0YS1uZy1tb2RlbD0idHlwZWFoZWFkLnBsYWNlIgogICAgICAgICAgICAgICAgICAgIGRhdGEtbmctbWF4bGVuZ3RoPSI3IgogICAgICAgICAgICAgICAgICAgIG1heGxlbmd0aD0iNyIKICAgICAgICAgICAgICAgICAgICBkYXRhLWkxOG4tcGxhY2Vob2xkZXI9ImZpZWxkLmFkZHJlc3MucG9zdGFsIgogICAgICAgICAgICAgICAgICAgIHR5cGVhaGVhZD0iY2l0eSBhcyBjaXR5LnBvc3RhbCBmb3IgY2l0eSBpbiBjaXR5VHlwZUFoZWFkKCR2aWV3VmFsdWUpIgogICAgICAgICAgICAgICAgICAgIHR5cGVhaGVhZC1lZGl0YWJsZT0idHJ1ZSIKICAgICAgICAgICAgICAgICAgICB0eXBlYWhlYWQtdGVtcGxhdGUtdXJsPSJ2YS92aWV3cy90eXBlYWhlYWQuaHRtbCIKICAgICAgICAgICAgICAgICAgICB0eXBlYWhlYWQtd2FpdC1tcz0iMTAwIgogICAgICAgICAgICAgICAgICAgIHR5cGVhaGVhZC1lZGl0YWJsZT0iZmFsc2UiCiAgICAgICAgICAgICAgICAgICAgdHlwZWFoZWFkLW9uLXNlbGVjdD0iZmlsbENpdHkoKSIKICAgICAgICAgICAgICAgICAgICB0eXBlYWhlYWQtc2VsZWN0LW9uLWJsdXI9InRydWUiCiAgICAgICAgICAgICAgICAgICAgdHlwZWFoZWFkLXNlbGVjdC1vbi1leGFjdD0idHJ1ZSIKICAgICAgICAgICAgICAgICAgICBkYXRhLW5nLXJlcXVpcmVkPSIhc2VjdXJlIgogICAgICAgICAgICAgICAgICAvPgogICAgICAgICAgICAgICAgPC9kaXY+</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgdmFyIHRhZ0VsZW1lbnQgPSBnZXRUYWdFbGVtZW50KGNvbnRlbnQsIG5hbWUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
