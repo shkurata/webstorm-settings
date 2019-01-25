@@ -90,6 +90,12 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/cm-jobsite-fe/app/views/detail.html" timestamp="1548409182984">
+        <mark key="[" line="91" column="88" />
+        <mark key="]" line="91" column="89" />
+        <mark key="^" line="91" column="89" />
+        <mark key="." line="91" column="89" />
+      </file>
       <file name="$USER_HOME$/projects/cm-jobsite-fe/app/index-search-results.html" timestamp="1548400466922">
         <mark key="[" line="67" column="0" />
         <mark key="]" line="67" column="67" />
@@ -129,11 +135,11 @@
         <mark key="." line="67" column="55" />
         <mark key="^" line="67" column="55" />
       </file>
-      <file name="$USER_HOME$/projects/cm-jobsite-fe/app/scripts/controllers/detail.js" timestamp="1548405535949">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="51" column="41" />
-        <mark key="^" line="51" column="41" />
-        <mark key="." line="51" column="41" />
+      <file name="$USER_HOME$/projects/cm-jobsite-fe/app/scripts/controllers/detail.js" timestamp="1548409991973">
+        <mark key="[" line="49" column="87" />
+        <mark key="]" line="49" column="87" />
+        <mark key="^" line="49" column="69" />
+        <mark key="." line="49" column="87" />
       </file>
       <file name="$USER_HOME$/projects/cm-arbeidsongeschiktheid-fe/app/scripts/app.js" timestamp="1548234038290">
         <mark key="[" line="295" column="0" />
@@ -170,11 +176,10 @@
         <mark key="^" line="18" column="29" />
         <mark key="." line="18" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/cm-jobsite-fe/app/scripts/factories/metatags.js" timestamp="1548407487021">
-        <mark key="'" line="43" column="23" />
-        <mark key="[" line="44" column="84" />
-        <mark key="]" line="44" column="84" />
-        <mark key="." line="44" column="84" />
+      <file name="$USER_HOME$/projects/cm-jobsite-fe/app/scripts/factories/metatags.js" timestamp="1548408584154">
+        <mark key="]" line="18" column="1" />
+        <mark key="^" line="18" column="1" />
+        <mark key="." line="18" column="1" />
       </file>
       <file name="$USER_HOME$/projects/cm-arbeidsongeschiktheid-fe/app/scripts/controllers/workresumptiondate.js" timestamp="1548233650834">
         <mark key="[" line="26" column="0" />
@@ -228,11 +233,11 @@
         <mark key="^" line="130" column="43" />
         <mark key="." line="130" column="43" />
       </file>
-      <file name="$USER_HOME$/projects/cm-jobsite-fe/app/index-detail.html" timestamp="1548405697402">
-        <mark key="[" line="16" column="35" />
-        <mark key="]" line="17" column="45" />
-        <mark key="." line="17" column="45" />
-        <mark key="^" line="17" column="45" />
+      <file name="$USER_HOME$/projects/cm-jobsite-fe/app/index-detail.html" timestamp="1548408682243">
+        <mark key="[" line="17" column="48" />
+        <mark key="]" line="18" column="48" />
+        <mark key="." line="18" column="48" />
+        <mark key="^" line="18" column="48" />
       </file>
     </filemarks>
     <jumps>
@@ -300,18 +305,33 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSIvc2NyaXB0cy9mYWN0b3JpZXMvbWV0YXRhZ3MuanMiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJHNjb3BlLmRldGFpbC50aXRsZSwgJHNjb3BlLm9nVGl0bGUpOwo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJHNjb3BlLmRldGFpbC50aXRsZSwgJHNjb3BlLm9nVGl0bGUpOwo=</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">IGZ1bmN0aW9uIGNyZWF0ZVRhZ0VsZW1lbnQoY29udGVudCwgbmFtZSkgewogICAgaWYgKG5hbWUgPT0gJ3RpdGxlJykgewogICAgICAvLyBTcGVjaWFsIHByb3Zpc2lvbiBmb3IgdGhlIHRpdGxlIGVsZW1lbnQKICAgICAgdmFyIHRpdGxlID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgndGl0bGUnKTsKICAgICAgdGl0bGUudGV4dENvbnRlbnQgPSBjb250ZW50OwogICAgICByZXR1cm4gdGl0bGU7CiAgICB9IGVsc2UgewogICAgICAvLyBPcGVuZ3JhcGggdXNlcyBbcHJvcGVydHldLCBidXQgZXZlcnl0aGluZyBlbHNlIHVzZXMgW25hbWVdCiAgICAgIHZhciBuYW1lQXR0ciA9IG5hbWUuaW5kZXhPZignb2c6JykgPT09IDAgPyAncHJvcGVydHknIDogJ25hbWUnOwogICAgICB2YXIgbWV0YSA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoJ21ldGEnKTsKICAgICAgbWV0YS5zZXRBdHRyaWJ1dGUobmFtZUF0dHIsIG5hbWUpOwogICAgICBtZXRhLnNldEF0dHJpYnV0ZSgnY29udGVudCcsIGNvbnRlbnQpOwogICAgICByZXR1cm4gbWV0YTsKICAgIH0KICB9CgogZnVuY3Rpb24gZmluZFRhZ0VsZW1lbnQobmFtZSkgewogICAgcmV0dXJuIGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoJ21ldGFbJyArIG5hbWUuaW5kZXhPZignb2c6JykgPT09IDAgPyAncHJvcGVydHknIDogJ25hbWUnICsgJz1cJycgKyBuYW1lICsnXCddJyk7CiB9</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICBmdW5jdGlvbiBtZXJnZURlZmF1bHRUYWdzKHRhZ3MpIHsKICAgIGFuZ3VsYXIuZm9yRWFjaChkZWZhdWx0VGFncywgZnVuY3Rpb24oZGVmYXVsdFRhZ0NvbnRlbnQsIGRlZmF1bHRUYWdOYW1lKSB7CiAgICAgIGlmICghdGFnc1tkZWZhdWx0VGFnTmFtZV0pIHsKICAgICAgICB0YWdzW2RlZmF1bHRUYWdOYW1lXSA9IGRlZmF1bHRUYWdDb250ZW50OwogICAgICB9IGVsc2UgaWYgKGRlZmF1bHRUYWdOYW1lID09PSAndGl0bGUnKSB7CiAgICAgICAgdGFnc1sndGl0bGUnXSArPSAnIC0gJyArIGRlZmF1bHRUYWdDb250ZW50OwogICAgICB9CiAgICB9KTsKICAgIHJldHVybiB0YWdzOwogIH0=</text>
+      </register>
+      <register name="6" type="4">
         <text>function clearTags() {
     angular.forEach(tagElements, function(tagElement) {
       document.head.removeChild(tagElement);
@@ -319,32 +339,14 @@
     tagElements.length = 0;
   }</text>
       </register>
-      <register name="2" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICB2YXIgdGFnRWxlbWVudHMgPSBbXTsK</text>
       </register>
-      <register name="3" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICB2YXIgZGVmYXVsdFRhZ3MgPSB7fTsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBzZXJ2aWNlLnNldERlZmF1bHRUYWdzID0gc2V0RGVmYXVsdFRhZ3M7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="7" type="4">
-        <text>function setDefaultTags(tags) {
-    angular.copy(tags, defaultTags);
-    setTags({});
-  }</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGFnRWxlbWVudHMucHVzaCh0YWdFbGVtZW50KTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdmFyIHRhZ0VsZW1lbnQgPSBnZXRUYWdFbGVtZW50KGNvbnRlbnQsIG5hbWUpOwo=</text>
+        <text encoding="base64">ICBzZXJ2aWNlLnNldERlZmF1bHRUYWdzID0gc2V0RGVmYXVsdFRhZ3M7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
