@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/projects/cm-sk-promotions-fe/src/app/core/authentication/authentication.component.ts" timestamp="1548311358504">
@@ -37,10 +37,10 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cm-jobsite-fe/app/index-search.html" timestamp="1548400459656">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="67" />
-        <mark key="." line="67" column="0" />
+      <file name="$USER_HOME$/projects/cm-jobsite-fe/app/index-search.html" timestamp="1548411353073">
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="58" />
+        <mark key="." line="104" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cm-arbeidsongeschiktheid-fe/app/scripts/controllers/contactsociety.js" timestamp="1548233574419">
         <mark key="[" line="24" column="0" />
@@ -55,18 +55,23 @@
         <mark key="^" line="140" column="62" />
         <mark key="." line="140" column="58" />
       </file>
-      <file name="$USER_HOME$/projects/cm-auth-fe/app/scripts/controllers/signin.js" timestamp="1548250513131">
+      <file name="$USER_HOME$/projects/cm-auth-fe/app/scripts/controllers/signin.js" timestamp="1548412183714">
         <mark key="'" line="24" column="75" />
-        <mark key="[" line="24" column="40" />
-        <mark key="]" line="24" column="75" />
-        <mark key="^" line="24" column="75" />
-        <mark key="." line="24" column="75" />
+        <mark key="[" line="58" column="74" />
+        <mark key="]" line="58" column="67" />
+        <mark key="." line="58" column="67" />
+        <mark key="^" line="58" column="67" />
       </file>
       <file name="$USER_HOME$/projects/cm-verzekeringenaansluiten-fe/app/views/profile.html" timestamp="1548337689209">
         <mark key="[" line="3" column="41" />
         <mark key="]" line="3" column="44" />
         <mark key="." line="3" column="44" />
         <mark key="^" line="3" column="44" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-auth-fe/app/index-signin-sk.html" timestamp="1548412494874">
+        <mark key="[" line="89" column="53" />
+        <mark key="]" line="89" column="54" />
+        <mark key="." line="89" column="54" />
       </file>
       <file name="$USER_HOME$/projects/cm-verzekeringenaansluiten-fe/app/views/payment.html" timestamp="1548339925909">
         <mark key="[" line="169" column="19" />
@@ -96,10 +101,10 @@
         <mark key="^" line="91" column="89" />
         <mark key="." line="91" column="89" />
       </file>
-      <file name="$USER_HOME$/projects/cm-jobsite-fe/app/index-search-results.html" timestamp="1548400466922">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="67" />
-        <mark key="." line="67" column="0" />
+      <file name="$USER_HOME$/projects/cm-jobsite-fe/app/index-search-results.html" timestamp="1548411364606">
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="58" />
+        <mark key="." line="106" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cm-verzekeringenaansluiten-fe/app/scripts/controllers/payment.js" timestamp="1548337264085">
         <mark key="[" line="40" column="42" />
@@ -118,28 +123,28 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cm-jobsite-fe/app/index-results.html" timestamp="1548400449832">
-        <mark key="[" line="68" column="4" />
-        <mark key="]" line="68" column="67" />
+      <file name="$USER_HOME$/projects/cm-jobsite-fe/app/index-results.html" timestamp="1548411345495">
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="58" />
         <mark key="^" line="67" column="3" />
-        <mark key="." line="68" column="0" />
+        <mark key="." line="109" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cm-auth-fe/app/scripts/controllers/signup.js" timestamp="1548249782718">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cm-jobsite-fe/app/index-function-domains.html" timestamp="1548400424407">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="67" />
-        <mark key="." line="67" column="55" />
+      <file name="$USER_HOME$/projects/cm-jobsite-fe/app/index-function-domains.html" timestamp="1548411332566">
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="58" />
+        <mark key="." line="108" column="0" />
         <mark key="^" line="67" column="55" />
       </file>
-      <file name="$USER_HOME$/projects/cm-jobsite-fe/app/scripts/controllers/detail.js" timestamp="1548409991973">
-        <mark key="[" line="49" column="87" />
-        <mark key="]" line="49" column="87" />
-        <mark key="^" line="49" column="69" />
-        <mark key="." line="49" column="87" />
+      <file name="$USER_HOME$/projects/cm-jobsite-fe/app/scripts/controllers/detail.js" timestamp="1548411104103">
+        <mark key="[" line="50" column="18" />
+        <mark key="]" line="50" column="18" />
+        <mark key="^" line="49" column="30" />
+        <mark key="." line="50" column="18" />
       </file>
       <file name="$USER_HOME$/projects/cm-arbeidsongeschiktheid-fe/app/scripts/app.js" timestamp="1548234038290">
         <mark key="[" line="295" column="0" />
@@ -227,7 +232,7 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cm-jobsite-fe/app/index.html" timestamp="1548405581268">
+      <file name="$USER_HOME$/projects/cm-jobsite-fe/app/index.html" timestamp="1548411323256">
         <mark key="[" line="130" column="0" />
         <mark key="]" line="130" column="58" />
         <mark key="^" line="130" column="43" />
@@ -314,39 +319,35 @@
         <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJHNjb3BlLmRldGFpbC50aXRsZSwgJHNjb3BlLm9nVGl0bGUpOwo=</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSIvc2NyaXB0cy9mYWN0b3JpZXMvbWV0YXRhZ3MuanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJHNjb3BlLmRldGFpbC50aXRsZSwgJHNjb3BlLm9nVGl0bGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJHNjb3BlLnJlZGlyZWN0X3RvKTsK</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IGZ1bmN0aW9uIGNyZWF0ZVRhZ0VsZW1lbnQoY29udGVudCwgbmFtZSkgewogICAgaWYgKG5hbWUgPT0gJ3RpdGxlJykgewogICAgICAvLyBTcGVjaWFsIHByb3Zpc2lvbiBmb3IgdGhlIHRpdGxlIGVsZW1lbnQKICAgICAgdmFyIHRpdGxlID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgndGl0bGUnKTsKICAgICAgdGl0bGUudGV4dENvbnRlbnQgPSBjb250ZW50OwogICAgICByZXR1cm4gdGl0bGU7CiAgICB9IGVsc2UgewogICAgICAvLyBPcGVuZ3JhcGggdXNlcyBbcHJvcGVydHldLCBidXQgZXZlcnl0aGluZyBlbHNlIHVzZXMgW25hbWVdCiAgICAgIHZhciBuYW1lQXR0ciA9IG5hbWUuaW5kZXhPZignb2c6JykgPT09IDAgPyAncHJvcGVydHknIDogJ25hbWUnOwogICAgICB2YXIgbWV0YSA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoJ21ldGEnKTsKICAgICAgbWV0YS5zZXRBdHRyaWJ1dGUobmFtZUF0dHIsIG5hbWUpOwogICAgICBtZXRhLnNldEF0dHJpYnV0ZSgnY29udGVudCcsIGNvbnRlbnQpOwogICAgICByZXR1cm4gbWV0YTsKICAgIH0KICB9CgogZnVuY3Rpb24gZmluZFRhZ0VsZW1lbnQobmFtZSkgewogICAgcmV0dXJuIGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoJ21ldGFbJyArIG5hbWUuaW5kZXhPZignb2c6JykgPT09IDAgPyAncHJvcGVydHknIDogJ25hbWUnICsgJz1cJycgKyBuYW1lICsnXCddJyk7CiB9</text>
+        <text>,
+        '</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgJHNjb3BlLm9nRGVzY3JpcHRpb24gPSAkZmlsdGVyKCdoaWRlV29yZFRhZ3MnKSgkc2NvcGUuZGV0YWlsLmNvbXBhbnlfZGVzY3JpcHRpb24pLnNsaWNlKDAsIDIwMCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgJHNjb3BlLm9nVGl0bGUgPSAkZmlsdGVyKCdoaWRlV29yZFRhZ3MnKSgkc2NvcGUuZGV0YWlsLnRpdGxlKS5zbGljZSgwLCAyMDApOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICBmdW5jdGlvbiBtZXJnZURlZmF1bHRUYWdzKHRhZ3MpIHsKICAgIGFuZ3VsYXIuZm9yRWFjaChkZWZhdWx0VGFncywgZnVuY3Rpb24oZGVmYXVsdFRhZ0NvbnRlbnQsIGRlZmF1bHRUYWdOYW1lKSB7CiAgICAgIGlmICghdGFnc1tkZWZhdWx0VGFnTmFtZV0pIHsKICAgICAgICB0YWdzW2RlZmF1bHRUYWdOYW1lXSA9IGRlZmF1bHRUYWdDb250ZW50OwogICAgICB9IGVsc2UgaWYgKGRlZmF1bHRUYWdOYW1lID09PSAndGl0bGUnKSB7CiAgICAgICAgdGFnc1sndGl0bGUnXSArPSAnIC0gJyArIGRlZmF1bHRUYWdDb250ZW50OwogICAgICB9CiAgICB9KTsKICAgIHJldHVybiB0YWdzOwogIH0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJHNjb3BlLm9nRGVzY3JpcHRpb24pOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>function clearTags() {
-    angular.forEach(tagElements, function(tagElement) {
-      document.head.removeChild(tagElement);
-    });
-    tagElements.length = 0;
-  }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJHNjb3BlLmRldGFpbC50aXRsZSwgJHNjb3BlLm9nVGl0bGUpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB2YXIgdGFnRWxlbWVudHMgPSBbXTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJHNjb3BlLmRldGFpbC50aXRsZSwgJHNjb3BlLm9nVGl0bGUpOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICB2YXIgZGVmYXVsdFRhZ3MgPSB7fTsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">IGZ1bmN0aW9uIGNyZWF0ZVRhZ0VsZW1lbnQoY29udGVudCwgbmFtZSkgewogICAgaWYgKG5hbWUgPT0gJ3RpdGxlJykgewogICAgICAvLyBTcGVjaWFsIHByb3Zpc2lvbiBmb3IgdGhlIHRpdGxlIGVsZW1lbnQKICAgICAgdmFyIHRpdGxlID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgndGl0bGUnKTsKICAgICAgdGl0bGUudGV4dENvbnRlbnQgPSBjb250ZW50OwogICAgICByZXR1cm4gdGl0bGU7CiAgICB9IGVsc2UgewogICAgICAvLyBPcGVuZ3JhcGggdXNlcyBbcHJvcGVydHldLCBidXQgZXZlcnl0aGluZyBlbHNlIHVzZXMgW25hbWVdCiAgICAgIHZhciBuYW1lQXR0ciA9IG5hbWUuaW5kZXhPZignb2c6JykgPT09IDAgPyAncHJvcGVydHknIDogJ25hbWUnOwogICAgICB2YXIgbWV0YSA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoJ21ldGEnKTsKICAgICAgbWV0YS5zZXRBdHRyaWJ1dGUobmFtZUF0dHIsIG5hbWUpOwogICAgICBtZXRhLnNldEF0dHJpYnV0ZSgnY29udGVudCcsIGNvbnRlbnQpOwogICAgICByZXR1cm4gbWV0YTsKICAgIH0KICB9CgogZnVuY3Rpb24gZmluZFRhZ0VsZW1lbnQobmFtZSkgewogICAgcmV0dXJuIGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoJ21ldGFbJyArIG5hbWUuaW5kZXhPZignb2c6JykgPT09IDAgPyAncHJvcGVydHknIDogJ25hbWUnICsgJz1cJycgKyBuYW1lICsnXCddJyk7CiB9</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBzZXJ2aWNlLnNldERlZmF1bHRUYWdzID0gc2V0RGVmYXVsdFRhZ3M7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
