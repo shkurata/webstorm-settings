@@ -83,6 +83,7 @@
         <mark key="]" line="85" column="24" />
         <mark key="." line="85" column="24" />
       </file>
+      <file name="$USER_HOME$/projects/cm-jobsite-fe/app/scripts/factories/search.js" timestamp="1548405111908" />
       <file name="$USER_HOME$/projects/cm-arbeidsongeschiktheid-fe/app/scripts/controllers/mobility.js" timestamp="1548233607151">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -127,11 +128,11 @@
         <mark key="." line="67" column="55" />
         <mark key="^" line="67" column="55" />
       </file>
-      <file name="$USER_HOME$/projects/cm-jobsite-fe/app/scripts/controllers/detail.js" timestamp="1548400665246">
-        <mark key="[" line="51" column="24" />
-        <mark key="]" line="51" column="55" />
-        <mark key="^" line="51" column="55" />
-        <mark key="." line="51" column="55" />
+      <file name="$USER_HOME$/projects/cm-jobsite-fe/app/scripts/controllers/detail.js" timestamp="1548405535949">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="51" column="41" />
+        <mark key="^" line="51" column="41" />
+        <mark key="." line="51" column="41" />
       </file>
       <file name="$USER_HOME$/projects/cm-arbeidsongeschiktheid-fe/app/scripts/app.js" timestamp="1548234038290">
         <mark key="[" line="295" column="0" />
@@ -160,6 +161,9 @@
         <mark key="]" line="18" column="29" />
         <mark key="^" line="18" column="29" />
         <mark key="." line="18" column="29" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-jobsite-fe/app/scripts/factories/metatags.js" timestamp="1548405758194">
+        <mark key="'" line="51" column="23" />
       </file>
       <file name="$USER_HOME$/projects/cm-arbeidsongeschiktheid-fe/app/scripts/controllers/workresumptiondate.js" timestamp="1548233650834">
         <mark key="[" line="26" column="0" />
@@ -207,11 +211,17 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cm-jobsite-fe/app/index-detail.html" timestamp="1548400818037">
-        <mark key="[" line="17" column="16" />
+      <file name="$USER_HOME$/projects/cm-jobsite-fe/app/index.html" timestamp="1548405581268">
+        <mark key="[" line="130" column="0" />
+        <mark key="]" line="130" column="58" />
+        <mark key="^" line="130" column="43" />
+        <mark key="." line="130" column="43" />
+      </file>
+      <file name="$USER_HOME$/projects/cm-jobsite-fe/app/index-detail.html" timestamp="1548405697402">
+        <mark key="[" line="16" column="35" />
         <mark key="]" line="17" column="45" />
-        <mark key="^" line="17" column="45" />
         <mark key="." line="17" column="45" />
+        <mark key="^" line="17" column="45" />
       </file>
     </filemarks>
     <jumps>
@@ -274,57 +284,58 @@
       <jump line="96" column="109" filename="$USER_HOME$/projects/cm-verzekeringenaansluiten-fe/app/views/personal.html" />
       <jump line="128" column="132" filename="$USER_HOME$/projects/cm-verzekeringenaansluiten-fe/app/views/personal.html" />
       <jump line="142" column="69" filename="$USER_HOME$/projects/cm-verzekeringenaansluiten-fe/app/views/personal.html" />
+      <jump line="51" column="23" filename="$USER_HOME$/projects/cm-jobsite-fe/app/scripts/factories/metatags.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>author</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSIvc2NyaXB0cy9mYWN0b3JpZXMvbWV0YXRhZ3MuanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="-" type="4">
-        <text>author</text>
+        <text>vacancies</text>
       </register>
       <register name="/" type="4">
-        <text>secure</text>
+        <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxtZXRhIG5hbWU9ImF1dGhvciIgY29udGVudD0iIj4K</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSIvc2NyaXB0cy9mYWN0b3JpZXMvbWV0YXRhZ3MuanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9LCB7fSlbXTsK</text>
+        <text encoding="base64">YW5ndWxhcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBjb250YWluZXI7Cg==</text>
+        <text encoding="base64">ICB9LCB7fSlbXTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIHJldHVybiBjb250YWluZXI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcgo=</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcgo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgIGlmICghbW9kZWxWYWx1ZSkgewo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IGRhdGEtbmctbWF4bGVuZ3RoPSIzNCIKICAgICAgICAgICAgICAgICAgICBtYXhsZW5ndGg9IjM0Ig==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAgZGF0YS1uZy1tYXhsZW5ndGg9IjI1MCIKICAgICAgICAgICAgICAgICAgICBtYXhsZW5ndGg9IjI1MCI=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">PGRpdiBjbGFzcz0iZm9ybS1ncm91cC1tdWx0aXBsZSI+CiAgICAgICAgICAgICAgICAgIDxpbnB1dAogICAgICAgICAgICAgICAgICAgIG5hbWU9InBvc3RhbCIKICAgICAgICAgICAgICAgICAgICBpZD0icG9zdGFsIgogICAgICAgICAgICAgICAgICAgIHR5cGU9InRleHQiCiAgICAgICAgICAgICAgICAgICAgY2xhc3M9ImZvcm0tY29udHJvbCIKICAgICAgICAgICAgICAgICAgICBkYXRhLW5nLWNsYXNzPSJ7J2Zvcm0tZXJyb3InOiBpbmZvRm9ybS4kc3VibWl0dGVkICYmIGluZm9Gb3JtLnBvc3RhbC4kaW52YWxpZH0iCiAgICAgICAgICAgICAgICAgICAgZGF0YS1uZy1tb2RlbD0idHlwZWFoZWFkLnBsYWNlIgogICAgICAgICAgICAgICAgICAgIGRhdGEtbmctbWF4bGVuZ3RoPSI3IgogICAgICAgICAgICAgICAgICAgIG1heGxlbmd0aD0iNyIKICAgICAgICAgICAgICAgICAgICBkYXRhLWkxOG4tcGxhY2Vob2xkZXI9ImZpZWxkLmFkZHJlc3MucG9zdGFsIgogICAgICAgICAgICAgICAgICAgIHR5cGVhaGVhZD0iY2l0eSBhcyBjaXR5LnBvc3RhbCBmb3IgY2l0eSBpbiBjaXR5VHlwZUFoZWFkKCR2aWV3VmFsdWUpIgogICAgICAgICAgICAgICAgICAgIHR5cGVhaGVhZC1lZGl0YWJsZT0idHJ1ZSIKICAgICAgICAgICAgICAgICAgICB0eXBlYWhlYWQtdGVtcGxhdGUtdXJsPSJ2YS92aWV3cy90eXBlYWhlYWQuaHRtbCIKICAgICAgICAgICAgICAgICAgICB0eXBlYWhlYWQtd2FpdC1tcz0iMTAwIgogICAgICAgICAgICAgICAgICAgIHR5cGVhaGVhZC1lZGl0YWJsZT0iZmFsc2UiCiAgICAgICAgICAgICAgICAgICAgdHlwZWFoZWFkLW9uLXNlbGVjdD0iZmlsbENpdHkoKSIKICAgICAgICAgICAgICAgICAgICB0eXBlYWhlYWQtc2VsZWN0LW9uLWJsdXI9InRydWUiCiAgICAgICAgICAgICAgICAgICAgdHlwZWFoZWFkLXNlbGVjdC1vbi1leGFjdD0idHJ1ZSIKICAgICAgICAgICAgICAgICAgICBkYXRhLW5nLXJlcXVpcmVkPSIhc2VjdXJlIgogICAgICAgICAgICAgICAgICAvPgogICAgICAgICAgICAgICAgPC9kaXY+</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">PGRpdiBjbGFzcz0iZm9ybS1ncm91cC1tdWx0aXBsZSI+CiAgICAgICAgICAgICAgICAgIDxpbnB1dAogICAgICAgICAgICAgICAgICAgIG5hbWU9Im51bWJlciIKICAgICAgICAgICAgICAgICAgICBpZD0ibnVtYmVyIgogICAgICAgICAgICAgICAgICAgIHR5cGU9InRleHQiCiAgICAgICAgICAgICAgICAgICAgY2xhc3M9ImZvcm0tY29udHJvbCIKICAgICAgICAgICAgICAgICAgICBkYXRhLW5nLWNsYXNzPSJ7J2Zvcm0tZXJyb3InOiBpbmZvRm9ybS4kc3VibWl0dGVkICYmIGluZm9Gb3JtLm51bWJlci4kaW52YWxpZH0iCiAgICAgICAgICAgICAgICAgICAgZGF0YS1uZy1tb2RlbD0iaW5mby5hZGRyZXNzLm51bWJlciIKICAgICAgICAgICAgICAgICAgICBkYXRhLWkxOG4tcGxhY2Vob2xkZXI9ImZpZWxkLmFkZHJlc3MubnVtYmVyIgogICAgICAgICAgICAgICAgICAgIGRhdGEtbmctbWF4bGVuZ3RoPSIyNTAiCiAgICAgICAgICAgICAgICAgICAgbWF4bGVuZ3RoPSIyNTAiCiAgICAgICAgICAgICAgICAgICAgYXV0b2NvbXBsZXRlPSJvZmYiCiAgICAgICAgICAgICAgICAgICAgZGF0YS1uZy1yZXF1aXJlZD0iIXNlY3VyZSIKICAgICAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICAgIDwvZGl2Pg==</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0iZm9ybS1ncm91cC1tdWx0aXBsZSI+CiAgICAgICAgICAgICAgICAgIDxpbnB1dAogICAgICAgICAgICAgICAgICAgIG5hbWU9InBvc3RhbCIKICAgICAgICAgICAgICAgICAgICBpZD0icG9zdGFsIgogICAgICAgICAgICAgICAgICAgIHR5cGU9InRleHQiCiAgICAgICAgICAgICAgICAgICAgY2xhc3M9ImZvcm0tY29udHJvbCIKICAgICAgICAgICAgICAgICAgICBkYXRhLW5nLWNsYXNzPSJ7J2Zvcm0tZXJyb3InOiBpbmZvRm9ybS4kc3VibWl0dGVkICYmIGluZm9Gb3JtLnBvc3RhbC4kaW52YWxpZH0iCiAgICAgICAgICAgICAgICAgICAgZGF0YS1uZy1tb2RlbD0idHlwZWFoZWFkLnBsYWNlIgogICAgICAgICAgICAgICAgICAgIGRhdGEtbmctbWF4bGVuZ3RoPSI3IgogICAgICAgICAgICAgICAgICAgIG1heGxlbmd0aD0iNyIKICAgICAgICAgICAgICAgICAgICBkYXRhLWkxOG4tcGxhY2Vob2xkZXI9ImZpZWxkLmFkZHJlc3MucG9zdGFsIgogICAgICAgICAgICAgICAgICAgIHR5cGVhaGVhZD0iY2l0eSBhcyBjaXR5LnBvc3RhbCBmb3IgY2l0eSBpbiBjaXR5VHlwZUFoZWFkKCR2aWV3VmFsdWUpIgogICAgICAgICAgICAgICAgICAgIHR5cGVhaGVhZC1lZGl0YWJsZT0idHJ1ZSIKICAgICAgICAgICAgICAgICAgICB0eXBlYWhlYWQtdGVtcGxhdGUtdXJsPSJ2YS92aWV3cy90eXBlYWhlYWQuaHRtbCIKICAgICAgICAgICAgICAgICAgICB0eXBlYWhlYWQtd2FpdC1tcz0iMTAwIgogICAgICAgICAgICAgICAgICAgIHR5cGVhaGVhZC1lZGl0YWJsZT0iZmFsc2UiCiAgICAgICAgICAgICAgICAgICAgdHlwZWFoZWFkLW9uLXNlbGVjdD0iZmlsbENpdHkoKSIKICAgICAgICAgICAgICAgICAgICB0eXBlYWhlYWQtc2VsZWN0LW9uLWJsdXI9InRydWUiCiAgICAgICAgICAgICAgICAgICAgdHlwZWFoZWFkLXNlbGVjdC1vbi1leGFjdD0idHJ1ZSIKICAgICAgICAgICAgICAgICAgICBkYXRhLW5nLXJlcXVpcmVkPSIhc2VjdXJlIgogICAgICAgICAgICAgICAgICAvPgogICAgICAgICAgICAgICAgPC9kaXY+</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>secure</last-search>
+      <last-search>&quot;</last-search>
       <last-offset />
-      <last-pattern>secure</last-pattern>
-      <last-replace>2019</last-replace>
-      <last-substitute>2018</last-substitute>
+      <last-pattern>&quot;</last-pattern>
+      <last-replace>'</last-replace>
+      <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -340,11 +351,13 @@
         <entry>skoebidoe</entry>
         <entry>2018</entry>
         <entry>secure</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
         <entry>%s\2018/2019/g</entry>
         <entry>%s/2018/2019/g</entry>
+        <entry>%s/&quot;/'/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
